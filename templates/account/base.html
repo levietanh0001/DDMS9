@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% block head_title %}{% endblock %}</title>
+    {% block extra_head %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    {% endblock %}
+    <style>
+      body {
+        background-color: #121212;
+      }
+      #fb-icon {
+        height: 20px;
+        width: 20px;
+      }
+      .login-container {
+        display:flex !important;
+      }
+      .login {
+        margin:auto !important;
+      }
+    </style>
+  </head>
+  <body>
+    {% block body %}
+
+    {% comment %} {% if messages %}
+    <div>
+      <strong>Messages:</strong>
+      <ul>
+        {% for message in messages %}
+        <li>{{message}}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %} {% endcomment %}
+
+
+    <div class="container">
+      {% block content %}
+      
+      {% endblock %}
+    </div>
+
+    {% endblock %}
+    {% block extra_body %}
+    {% endblock %}
+  </body>
+</html>

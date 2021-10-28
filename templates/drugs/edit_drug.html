@@ -1,0 +1,69 @@
+{% extends 'base/base.html' %}
+{% block title %}Edit Drug{% endblock title %}
+
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <strong class="card-title">Edit Drug</strong>
+            </div>
+            <div class="card-body">
+                <!-- Credit Card -->
+                <div id="pay-invoice">
+                    <div class="card-body">
+                        <form action="/update/{{drug.drug_id}}/" method="POST" novalidate="novalidate">
+                            {% csrf_token %}
+                            <div class="form-group">
+                                <label for="drug_id" class="control-label mb-1">Drug ID</label>
+                                <input type="text" class="form-control" name="drug_id" id="drug_id" value="{{ drug.drug_id }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="name" class="control-label mb-1">Name</label>
+                                <input type="text" class="form-control" name="name" id="name" value="{{ drug.name }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="drug_type" class="control-label mb-1">Drug Type</label>
+                                <input type="text" class="form-control" name="drug_type" id="drug_type" value="{{ drug.drug_type }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="amount" class="control-label mb-1">Amount</label>
+                                <input type="text" class="form-control" name="amount" id="amount" value="{{ drug.amount }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="exp" class="control-label mb-1">EXP</label>
+                                <input type="date" class="form-control" name="exp" id="exp" value="{{ drug.exp }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="mfg" class="control-label mb-1">MFG</label>
+                                <input type="date" class="form-control" name="mfg" id="mfg" value="{{ drug.mfg }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="brand" class="control-label mb-1">Brand</label>
+                                <input type="text" class="form-control" name="brand" id="brand" value="{{ drug.brand }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="description" class="control-label mb-1">Description</label>
+                                <input type="text" class="form-control" name="description" id="description" value="{{ drug.description }}"/>  
+                            </div>
+                            <div class="form-group">
+                                <label for="updated_date" class="control-label mb-1">Updated Date</label>
+                                <input type="date" class="form-control" name="updated_date" id="updated_date" value="{{ drug.updated_date }}"/>  
+                            </div>
+                            <div>
+                                <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                    <span id="payment-button-amount">SUBMIT</span>
+                                </button>
+                            </div>
+                            <div class="form-errors">{{form.errors}}</div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div> <!-- .card -->
+
+    </div><!--/.col-->
+</div>
+{% endblock content %}

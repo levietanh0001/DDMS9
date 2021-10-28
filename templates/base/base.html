@@ -1,0 +1,206 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{% block title %}{% endblock title %}</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static './images/D.png' %}">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link href="{% static './css/style.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    {% comment %} 
+    <link rel="stylesheet" href="https://cdn.datatables.net/select/1.3.3/css/select.dataTables.min.css"> 
+    {% endcomment %}
+</head>
+<style>
+#drug-card-title {
+    font-size: 24px;
+}
+#drug-card-count {
+    font-size: 18px;
+}
+#add-drug-btn {
+    background-color: #006400 !important;
+    border: 1px solid #006400 !important;
+    color: #fff;
+}
+#delsel {
+    background-color: #800000 !important;
+    border: 1px solid #800000 !important;
+}
+#delsel:hover {
+    background-color: #8B0000 !important;
+}
+table.dataTable thead .sorting, 
+table.dataTable thead .sorting_asc, 
+table.dataTable thead .sorting_desc {
+    background : none !important;
+}
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+}
+#bootstrapdatatable_length label {
+    color: #708090 !important;
+}
+#bootstrapdatatable_info {
+    color: #708090 !important;
+}
+#bootstrapdatatable_paginate a {
+    color: #708090 !important;
+}
+#bootstrapdatatable_paginate > span > a {
+    color: black !important;
+}
+#bootstrapdatatable_length label select {
+    color: #708090;
+    border: 1px solid grey;
+}
+#bootstrapdatatable_filter > label {
+    color: #708090;
+}
+#bootstrapdatatable_filter label input {
+    color: #708090;
+    border: 1px solid grey;
+}
+#bootstrapdatatable {
+    border: none !important;
+}
+#bootstrapdatatable tbody tr.odd {
+    background-color: #161616 !important;
+}
+body {
+    background-color: #16171c;
+}
+.card {
+    background-color: #191a1c;
+}
+.form-errors {
+    color: red;
+}
+#payment-button {
+    background-color: #6a51e0 
+;
+    border: #6a51e0 ;
+;
+
+}
+#payment-button-amount {
+    color:#fff;
+}
+.header-content {
+    background-color: #191a1c;
+}
+#main-search-field {
+    background-color: #191a1c !important;
+}
+#main-search-field::placeholder {
+    color: #a7a6a2 !important;
+}
+i.icon-search {
+    color: #a7a6a2 !important;
+}
+#magnifier-icon-container {
+    background-color: #191a1c !important;
+}
+.table, th, td {
+    border: 1px inset #232426 !important;
+    /* border-collapse: collapse;
+    border-spacing: 0; */
+}
+.table thead tr th {
+    color: #687885; 
+    font-weight: bold;
+}
+.table tr:hover {
+    color: #fff;
+    background-color: #232426;
+}
+.box-title {
+    color:#687885;
+
+}
+.form-group input {
+    background-color: #191a1c !important;
+    border: 1px solid #232426 !important;
+}
+.form-control {
+    color: #a7a6a2 !important;
+}
+.form-group select {
+    background-color: #191a1c !important;
+    border: 1px solid #232426 !important;
+}
+.card {
+    padding: 10px 10px 10px 10px;
+}
+</style>
+<body>
+{% comment %} {% include 'base/preloader.html' %} {% endcomment %}
+<div id="main-wrapper">
+    {% include 'base/nav_header.html' %}
+    {% include 'base/header.html' %}
+    {% include 'base/quixnav.html' %}
+    <div class="content-body">
+        <div class="container-fluid">
+            {% block content %}{% endblock content %}
+        </div> 
+    </div>
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="{% static './vendor/global/global.min.js' %}"></script>
+    <script src="{% static './js/quixnav-init.js' %}"></script>
+    <script src="{% static './js/custom.min.js' %}"></script>
+    <script src="./vendor/raphael/raphael.min.js"></script>
+    <script src="./vendor/morris/morris.min.js"></script>
+    <script src="./vendor/circle-progress/circle-progress.min.js"></script>
+    <script src="./vendor/chart.js/Chart.bundle.min.js"></script>
+    <script src="./vendor/gaugeJS/dist/gauge.min.js"></script>
+    <script src="./vendor/flot/jquery.flot.js"></script>
+    <script src="./vendor/flot/jquery.flot.resize.js"></script>
+    <script src="./vendor/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="./vendor/jqvmap/js/jquery.vmap.min.js"></script>
+    <script src="./vendor/jqvmap/js/jquery.vmap.usa.js"></script>
+    <script src="./vendor/jquery.counterup/jquery.counterup.min.js"></script>     
+    <script src="{% static './js/dashboard/dashboard-1.js' %}"></script>
+    <script src="{% static './js/my-custom-scripts.js' %}"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.3.3/js/dataTables.select.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#bootstrapdatatable').DataTable(
+            {
+                "oLanguage": {
+                    "sSearch": "Search ",
+                },
+                "dom": '<"top"fl>rt<"bottom"ip><"clear">',
+                "pagingType": "full_numbers"
+            });
+        });
+        function viewdata(){
+            $.ajax({
+                url: '../drugs/drug_list.html',
+                type: 'GET',
+                success: function(data){
+                    $('tbody').html(data)
+                }
+            })
+        }
+        $('#checkall').change(function(){
+            $('.checkitem').prop("checked", $(this).prop("checked"))
+        })
+        $('#delsel').click(function(){
+            var id = $('.checkitem:checked').map(function(){
+                return $(this).val()
+            }).get().join (' ')
+
+        })
+    </script>
+</body>
+</html>

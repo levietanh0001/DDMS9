@@ -1,0 +1,94 @@
+{% extends 'base/base.html' %}
+{% block title %}Drug List{% endblock title %}
+{% block content %}
+<div class="drugs">
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="box-title">Drug List</h3>
+                </div> 
+                <div class="card-body--">
+                    <form method="POST" action="/delete_selected/">
+                        {% csrf_token %}
+                        <button type="submit" id="delsel" class="btn btn-danger">Delete Selected</button>
+                        <a href="{% url 'add-drug' %}" id="add-drug-btn" class="btn btn-success">                            
+                            <span class="fas fa-plus"> Add Drug</span>
+                        </a>
+                        <br><br>
+                        <div class="table-stats order-table ov-h">
+                            <table id="bootstrapdatatable" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        {% comment %} <th class="serial">#</th> {% endcomment %}
+                                        <th style="text-align:center;width:20px;"><input type="checkbox" id="checkall"></th>
+                                        <th>ID</th>
+                                        <th>Name</th>
+                                        <th>Type</th> {% comment %}Liquid/Pills/Tablets{% endcomment %}
+                                        <th>Amount</th>
+                                        <th>EXP</th>
+                                        <th>MFG</th>
+                                        <th>Brand</th>
+                                        <th>Description</th>
+                                        <th>Updated</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% if drug %}
+                                    {% for drug in drug %}
+                                    <tr>
+                                        {% comment %} <td class="serial">{{ forloop.counter }}</td> {% endcomment %}
+                                        <td class="text-center"><input type="checkbox" class="checkitem" name="instance" value="{{ drug.drug_id }}"></td>
+                                        <td>{{ drug.drug_id }}</td>
+                                        <td>{{ drug.name }}</td>
+                                        <td>{{ drug.drug_type }}</td>
+                                        <td>{{ drug.amount }}</td>
+                                        <td>{{ drug.exp }}</td>
+                                        <td>{{ drug.mfg }}</td>
+                                        <td>{{ drug.brand }}</td>
+                                        <td>{{ drug.description }}</td>
+                                        <td>{{ drug.updated_date }}</td>
+                                        <td>
+                                        {% comment %} <form method="POST" action="/delete/{{ drug.drug_id }}/">
+                                            {% csrf_token %}
+                                            <button type="submit" class="dropdown-item text-danger"><span class="fas fa-trash-alt mr-2"></span>Remove</button>
+                                        </form> {% endcomment %}
+                                        
+                                            <div class="btn-group">
+                                                <button class="btn btn-link text-dark m-1 p-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    <span class="">
+                                                        <span id="action-button" class="fas fa-ellipsis-h icon-dark"></span>
+                                                    </span>
+                                                </button>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><span class="fas fa-eye mr-2"></span>View Details</a>
+                                                    {% comment %} <a class="dropdown-item" href="#"><span class="fas fa-edit mr-2"></span>Edit</a> {% endcomment %}
+                                                    {% comment %} <a class="dropdown-item text-danger" href="/delete/{{ drug.drug_id }}" data-title="Delete" data-toggle="modal" data-target="#delete"><span class="fas fa-trash-alt mr-2"></span>Remove</a> {% endcomment %}
+                                                    <form method="POST" action="/edit/{{ drug.drug_id }}/">
+                                                        {% csrf_token %}
+                                                        <button type="submit" class="dropdown-item text-danger"><span class="fas fa-pen-alt mr-2"></span>Edit</button>
+                                                    </form>    
+                                                    <form method="POST" action="/delete/{{ drug.drug_id }}/">
+                                                        {% csrf_token %}
+                                                        <button type="submit" class="dropdown-item text-danger"><span class="fas fa-trash-alt mr-2"></span>Remove</button>
+                                                    </form>    
+                                                </div>
+                                            </div>
+                                            
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                    {% else %}
+                                        <tr><td>No Drug Data</td></tr>
+                                    {% endif %}
+                                </tbody>
+                            </table>
+                        </div> <!-- /.table-stats -->
+                    </form>
+                </div>
+            </div> <!-- /.card -->
+        </div>  <!-- /.col-lg-8 -->
+    </div>
+</div>
+{% endblock content %}

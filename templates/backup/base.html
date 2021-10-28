@@ -1,0 +1,346 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Focus - Bootstrap Admin Dashboard </title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static './images/logo.png' %}">
+    {% comment %} <link rel="stylesheet" href="{% static './vendor/owl-carousel/css/owl.carousel.min.css' %}">
+    <link rel="stylesheet" href="{% static './vendor/owl-carousel/css/owl.theme.default.min.css' %}"> {% endcomment %}
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    {% comment %} <link href="{% static './vendor/jqvmap/css/jqvmap.min.css' %}" rel="stylesheet"> {% endcomment %}
+    <link href="{% static './css/style.css' %}" rel="stylesheet">
+</head>
+<body>
+<div id="preloader">
+    <div class="sk-three-bounce">
+        <div class="sk-child sk-bounce1"></div>
+        <div class="sk-child sk-bounce2"></div>
+        <div class="sk-child sk-bounce3"></div>
+    </div>
+</div>
+<div id="main-wrapper">
+    <div class="nav-header">
+        <a href="./" class="brand-logo">
+            {% comment %} <img class="logo-abbr" src="./images/logo.png" alt="">
+            <img class="logo-compact" src="./images/logo-text.png" alt="">
+            <img class="brand-title" src="./images/logo-text.png" alt=""> {% endcomment %}
+        </a>
+
+        <div class="nav-control">
+            <div class="hamburger">
+                <span class="line"></span><span class="line"></span><span class="line"></span>
+            </div>
+        </div>
+    </div>
+    <div class="header">
+        <div class="header-content">
+            <nav class="navbar navbar-expand">
+                <div class="collapse navbar-collapse justify-content-between">
+                    <div class="header-left">
+                        <div class="search_bar dropdown">
+                            <span class="search_icon p-3 c-pointer" data-toggle="dropdown">
+                                <i class="mdi mdi-magnify"></i>
+                            </span>
+                            <div class="dropdown-menu p-0 m-0">
+                                <form>
+                                    <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                    <ul class="navbar-nav header-right">
+                        <li class="nav-item dropdown notification_dropdown">
+                            <a class="nav-link" href="#" role="button" data-toggle="dropdown">
+                                <i class="mdi mdi-bell"></i>
+                                <div class="pulse-css"></div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right">
+                                <ul class="list-unstyled">
+                                    <li class="media dropdown-item">
+                                        <span class="success"><i class="ti-user"></i></span>
+                                        <div class="media-body">
+                                            <a href="#">
+                                                <p><strong>Martin</strong> has added a <strong>customer</strong> Successfully
+                                                </p>
+                                            </a>
+                                        </div>
+                                        <span class="notify-time">3:20 am</span>
+                                    </li>
+                                    <li class="media dropdown-item">
+                                        <span class="primary"><i class="ti-shopping-cart"></i></span>
+                                        <div class="media-body">
+                                            <a href="#">
+                                                <p><strong>Jennifer</strong> purchased Light Dashboard 2.0.</p>
+                                            </a>
+                                        </div>
+                                        <span class="notify-time">3:20 am</span>
+                                    </li>
+                                    <li class="media dropdown-item">
+                                        <span class="danger"><i class="ti-bookmark"></i></span>
+                                        <div class="media-body">
+                                            <a href="#">
+                                                <p><strong>Robin</strong> marked a <strong>ticket</strong> as unsolved.
+                                                </p>
+                                            </a>
+                                        </div>
+                                        <span class="notify-time">3:20 am</span>
+                                    </li>
+                                    <li class="media dropdown-item">
+                                        <span class="primary"><i class="ti-heart"></i></span>
+                                        <div class="media-body">
+                                            <a href="#">
+                                                <p><strong>David</strong> purchased Light Dashboard 1.0.</p>
+                                            </a>
+                                        </div>
+                                        <span class="notify-time">3:20 am</span>
+                                    </li>
+                                    <li class="media dropdown-item">
+                                        <span class="success"><i class="ti-image"></i></span>
+                                        <div class="media-body">
+                                            <a href="#">
+                                                <p><strong> James.</strong> has added a<strong>customer</strong> Successfully
+                                                </p>
+                                            </a>
+                                        </div>
+                                        <span class="notify-time">3:20 am</span>
+                                    </li>
+                                </ul>
+                                <a class="all-notification" href="#">See all notifications <i
+                                        class="ti-arrow-right"></i></a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown header-profile">
+                            <a class="nav-link" href="#" role="button" data-toggle="dropdown">
+                                <i class="mdi mdi-account"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right">
+                                <a href="./app-profile.html" class="dropdown-item">
+                                    <i class="icon-user"></i>
+                                    <span class="ml-2">Profile </span>
+                                </a>
+                                <a href="./email-inbox.html" class="dropdown-item">
+                                    <i class="icon-envelope-open"></i>
+                                    <span class="ml-2">Inbox </span>
+                                </a>
+                                <a href="./page-login.html" class="dropdown-item">
+                                    <i class="icon-key"></i>
+                                    <span class="ml-2">Logout </span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="quixnav">
+        <div class="quixnav-scroll">
+            <ul class="metismenu" id="menu">
+                <li class="nav-label first">Main Menu</li>
+                <li>
+                    <a href="" aria-expanded="false"><i class="fas fa-compass"></i>
+                        <span class="nav-text">Dashboard</span>
+                    </a>
+                </li>
+                <li class="nav-label">Catalogs</li>
+                <li>
+                    <a href="/drugs/create-drugs" aria-expanded="false"><i class="fas fa-capsules"></i>
+                        <span class="nav-text">Drugs</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" aria-expanded="false"><i class="fas fa-disease"></i>
+                        <span class="nav-text">Diseases</span>
+                    </a>
+                </li>
+                <li class="nav-label">Operations</li>
+                <li><a class="has-arrow" href="javascript:void()" aria-expanded="true"><i
+                            class="icon icon-single-04"></i><span class="nav-text">Drugs</span></a>
+                    <ul aria-expanded="true">
+                        <li><a href="./index.html">Create</a></li>
+                        <li><a href="./index2.html">Read</a></li>
+                        <li><a href="./index2.html">Update</a></li>
+                        <li><a href="./index2.html">Delete</a></li>
+                    </ul>
+                </li>
+                <li><a class="has-arrow" href="javascript:void()" aria-expanded="true"><i
+                            class="icon icon-single-04"></i><span class="nav-text">Diseases</span></a>
+                    <ul aria-expanded="true">
+                        <li><a href="./index.html">Create</a></li>
+                        <li><a href="./index2.html">Read</a></li>
+                        <li><a href="./index2.html">Update</a></li>
+                        <li><a href="./index2.html">Delete</a></li>
+                    </ul>
+                </li> 
+            </ul>
+        </div>
+
+
+    </div>
+    <div class="content-body">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stat-widget-five">
+                                <div class="stat-icon dib flat-color-1">
+                                    <i class="fas fa-list"></i>
+                                </div>
+                                <div class="stat-content">
+                                    <div class="text-left dib">
+                                        <div class="stat-text"><span class="count">{{ order }}</span></div>
+                                        <div class="stat-heading">Drugs</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stat-widget-five">
+                                <div class="stat-icon dib flat-color-2">
+                                    <i class="fas fa-plus-square"></i>
+                                </div>
+                                <div class="stat-content">
+                                    <div class="text-left dib">
+                                        <div class="stat-text"><span class="count">{{ product }}</span></div>
+                                        <div class="stat-heading">Disease</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stat-widget-five">
+                                <div class="stat-icon dib flat-color-3">
+                                    <i class="fas fa-edit"></i>
+                                </div>
+                                <div class="stat-content">
+                                    <div class="text-left dib">
+                                        <div class="stat-text"><span class="count">{{ supplier }}</span></div>
+                                        <div class="stat-heading">Edit</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stat-widget-five">
+                                <div class="stat-icon dib flat-color-4">
+                                    <i class="fas fa-trash"></i>
+                                </div>
+                                <div class="stat-content">
+                                    <div class="text-left dib">
+                                        <div class="stat-text"><span class="count">{{ buyer }}</span></div>
+                                        <div class="stat-heading">Delete</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="orders">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="box-title">Drugs</h4>
+                            </div>
+                            <div class="card-body--">
+                                <div class="table-stats order-table ov-h">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                {% comment %} <th class="serial">#</th> {% endcomment %}
+                                                <th>ID</th>
+                                                <th>Name</th>
+                                                <th>Type</th> {% comment %}Liquid/Pills/Tablets{% endcomment %}
+                                                <th>Amount</th>
+                                                <th>EXP</th>
+                                                <th>MFG</th>
+                                                <th>Brand</th>
+                                                <th>Description</th>
+                                                <th>Updated</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% if orders %}
+                                            {% for order in orders %}
+                                            <tr>
+                                                {% comment %} <td class="serial">{{ forloop.counter }}</td> {% endcomment %}
+                                                <td>{{ order.supplier }}</td>
+                                                <td>{{ order.product }}</td>
+                                                <td>{{ order.design }}</td>
+                                                <td>{{ order.color }}</td>
+                                                <td>{{ order.buyer }}</td>
+                                                <td>{{ order.season }}</td>
+                                                <td>{{ order.drop }}</td>
+                                                <td>{{ order.created_date }}</td>
+                                                <td>
+                                                    {% if order.status == 'pending' %}
+                                                        <a class="btn btn-warning" href="">{{ order.status }}</a>
+                                                    {% elif order.status == 'decline' %}
+                                                        <a class="btn btn-danger" href="">{{ order.status }}</a>
+                                                    {% elif order.status == 'complete' %}
+                                                        <a class="btn btn-success" href="">{{ order.status }}</a>
+                                                    {% elif order.status == 'approved' %}
+                                                        <a class="btn btn-primary" href="">{{ order.status }}</a>
+                                                    {% elif order.status == 'bulk' %}
+                                                        <a class="btn btn-secondary" href="">{{ order.status }}</a>
+                                                    {% else %}
+                                                        <a class="btn btn-info" href="">{{ order.status }}</a>
+                                                    {% endif %}
+                                                </td>
+                                            </tr>
+                                            {% endfor %}
+                                            {% else %}
+                                                <tr><td>No Drug Data</td></tr>
+                                            {% endif %}
+                                        </tbody>
+                                    </table>
+                                </div> <!-- /.table-stats -->
+                            </div>
+                        </div> <!-- /.card -->
+                    </div>  <!-- /.col-lg-8 -->
+                </div>
+            </div>
+
+
+        </div> 
+    </div>
+</div>
+    <script src="{% static './vendor/global/global.min.js' %}"></script>
+    <script src="{% static './js/quixnav-init.js' %}"></script>
+    <script src="{% static './js/custom.min.js' %}"></script>
+    {% comment %} <script src="./vendor/raphael/raphael.min.js"></script>
+    <script src="./vendor/morris/morris.min.js"></script>
+    <script src="./vendor/circle-progress/circle-progress.min.js"></script>
+    <script src="./vendor/chart.js/Chart.bundle.min.js"></script>
+    <script src="./vendor/gaugeJS/dist/gauge.min.js"></script>
+    <script src="./vendor/flot/jquery.flot.js"></script>
+    <script src="./vendor/flot/jquery.flot.resize.js"></script>
+    <script src="./vendor/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="./vendor/jqvmap/js/jquery.vmap.min.js"></script>
+    <script src="./vendor/jqvmap/js/jquery.vmap.usa.js"></script>
+    <script src="./vendor/jquery.counterup/jquery.counterup.min.js"></script> {% endcomment %}
+    <script src="{% static './js/dashboard/dashboard-1.js' %}"></script>
+</body>
+</html>
