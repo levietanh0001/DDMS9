@@ -1,4 +1,4 @@
-# drugs-and-diseases-management
+# DDMS-drugs-and-diseases-management
 This is a drug-and-disease catalog management system
 
 # How to Setup
