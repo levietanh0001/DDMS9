@@ -5,7 +5,7 @@ from .drug_types import drug_types_list
 class Drug(models.Model):
     drug_id = models.CharField(max_length=20, unique=True, error_messages={'unique':"This drug id has already been registered."})
     name = models.CharField(max_length=50)
-    drug_type = models.CharField(max_length=20, choices=drug_types_list, default='pills', blank=True, null=True)
+    drug_type = models.CharField(max_length=20, blank=True, null=True)
     amount = models.CharField(max_length=20, blank=True, null=True)
     exp = models.DateField(blank=True, null=True)
     mfg = models.DateField(blank=True, null=True)

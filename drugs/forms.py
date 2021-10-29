@@ -15,7 +15,7 @@ class DrugForm(forms.ModelForm):
         widgets = { 
             'drug_id': forms.TextInput(attrs={ 'class': 'form-control', 'data-val': 'true', 'data-val-required': 'Please enter drug id', }), 
             'name': forms.TextInput(attrs={ 'class': 'form-control' }), 
-            'drug_type': forms.Select(attrs={'class': 'form-control'}, choices=drug_types_list),
+            'drug_type': forms.TextInput(attrs={'class': 'form-control'},),
             'amount': forms.TextInput(attrs={ 'class': 'form-control' }), 
             'exp': forms.DateInput(attrs={ 'class': 'form-control', 'type': 'date' }), 
             'mfg': forms.DateInput(attrs={ 'class': 'form-control', 'type': 'date' }), 
