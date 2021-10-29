@@ -294,6 +294,7 @@ JAZZMIN_SETTINGS = {
 
         # Url that gets reversed (Permissions can be added)
         # {"name": "Home",  "url": "admin:index", "permissions": ["auth.view_user"]},
+        {"name": "My Dashboard",  "url": "dashboard", },
         {"name": "Store Dashboard",  "url": "store-dashboard", },
         {"name": "Catalogue",  "url": "store-catalogue", },
 
