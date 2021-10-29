@@ -6,7 +6,16 @@ from .forms import DrugForm
 
     
 class DrugAdmin(ImportExportModelAdmin):
-    fields = ('drug_type',)
+    fields = (
+        'drug_id',
+        'name',
+        'drug_type',
+        'amount',
+        'exp',
+        'mfg',
+        'brand',
+        'description',
+    )
     list_display = [
         'drug_id',
         'name',
@@ -18,6 +27,15 @@ class DrugAdmin(ImportExportModelAdmin):
         'description',
         'updated_date',
     ]
+    list_editable = ( 
+        'name',
+        'drug_type',
+        'amount',
+        'exp',
+        'mfg',
+        'brand',
+        'description',
+    )
     form = DrugForm
     list_per_page = 20
     search_fields = ['drug_id', 'name', 'drug_type', 'brand', 'description']

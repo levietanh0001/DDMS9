@@ -10,7 +10,7 @@ class DrugForm(forms.ModelForm):
         fields = [
             'drug_id', 'name', 'drug_type',
             'amount', 'exp', 'mfg',
-            'brand', 'description',
+            'brand', 'description', 
         ] 
         widgets = { 
             'drug_id': forms.TextInput(attrs={ 'class': 'form-control', 'data-val': 'true', 'data-val-required': 'Please enter drug id', }), 
@@ -21,6 +21,7 @@ class DrugForm(forms.ModelForm):
             'mfg': forms.DateInput(attrs={ 'class': 'form-control', 'type': 'date' }), 
             'brand': forms.TextInput(attrs={ 'class': 'form-control' }), 
             'description': forms.TextInput(attrs={ 'class': 'form-control' }), 
+            # 'drug_img': forms.ImageField(), 
         }
 # from .models import Season, Drop, Product, Order, Delivery
 # class DrugForm(forms.Form):

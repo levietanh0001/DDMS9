@@ -99,4 +99,19 @@ class DrugCatalogListView(ListView):
     context_object_name = 'drug'    
 
     
-    
+# Create your views here.
+def drug_image_view(request):
+  
+    if request.method == 'POST':
+        form = DrugForm(request.POST, request.FILES)
+  
+        if form.is_valid():
+            form.save()
+            return redirect('success')
+    else:
+        form = DrugForm()
+    return render(request, 'upload_drug_img.html', {'form' : form})
+  
+  
+def success(request):
+    return HttpResponse('successfully uploaded')    

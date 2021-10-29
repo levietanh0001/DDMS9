@@ -6,7 +6,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 # local
 from .views import base, dashboard, store_dashboard, store_catalogue
-from drugs.views import destroy, edit, update, delete_selected, DrugListView, DrugCatalogListView
+from drugs.views import destroy, edit, update, delete_selected, DrugListView, DrugCatalogListView, drug_image_view, success
 from members.views import login, logout
 
 
@@ -34,4 +34,11 @@ urlpatterns = [
     path('dashboard/', store_dashboard, name='store-dashboard'),
     # path('catalogue/', store_catalogue, name='store-catalogue'),
     path('admin/', RedirectView.as_view(url='/admin/'), name='admin'),
+    
+    path('upload-drug-image', drug_image_view, name = 'upload_drug_img'),
+    path('success', success, name = 'success'),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
