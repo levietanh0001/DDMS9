@@ -33,4 +33,5 @@ urlpatterns = [
     # path('dashboard/', RedirectView.as_view(url='/dashboard/'), name='store-dashboard'),
     path('dashboard/', store_dashboard, name='store-dashboard'),
     # path('catalogue/', store_catalogue, name='store-catalogue'),
+    path('admin/', RedirectView.as_view(url='/admin/'), name='admin'),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

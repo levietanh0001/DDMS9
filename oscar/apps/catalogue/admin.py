@@ -1,7 +1,7 @@
 from django.contrib import admin
 from treebeard.admin import TreeAdmin
 from treebeard.forms import movenodeform_factory
-
+from import_export.admin import ImportExportModelAdmin
 from oscar.core.loading import get_model
 
 AttributeOption = get_model('catalogue', 'AttributeOption')

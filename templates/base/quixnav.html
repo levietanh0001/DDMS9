@@ -1,10 +1,15 @@
 <div class="quixnav">
     <div class="quixnav-scroll">
         <ul class="metismenu" id="menu">
-            <li class="nav-label first">Main Menu</li>
+            <li class="nav-label first">Admin Section</li>
+            <li>
+                <a href="{% url 'admin' %}" aria-expanded="false"><i class="fas fa-map"></i>
+                    <span class="nav-text">Admin</span>
+                </a>
+            </li>
             <li>
                 <a href="{% url 'dashboard' %}" aria-expanded="false"><i class="fas fa-compass"></i>
-                    <span class="nav-text">Dashboard</span>
+                    <span class="nav-text">My Dashboard</span>
                 </a>
             </li>
             <li>
@@ -12,7 +17,7 @@
                     <span class="nav-text">Store Dashboard</span>
                 </a>
             </li>
-            <li class="nav-label">DRUGS</li>
+            <li class="nav-label">ABOUT DRUGS</li>
             <li>
                 <a href="{% url 'store-catalogue' %}" aria-expanded="false"><i class="fas fa-list"></i>
                     <span class="nav-text">Drug Catalog</span>
