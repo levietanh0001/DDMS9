@@ -1,0 +1,1068 @@
+id,drug_id,name,drug_type,amount,exp,mfg,brand,description,updated_date
+1,bl1,Madopar,PILLS,123,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+2,bl2,Trihexyphenidyl 2mg,PELLETS,220,12month,9/29/2021,Pharmedic,The drug works on the blood.,10/29/2021
+3,bl3,Stalevo 100/25/200,PELLETS,200,12month,9/29/2021,Orion Corporation,The drug works on the blood.,10/29/2021
+4,bl4,Madopar,CAPSULES,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+5,bl5,Sifrol,CAPSULES,200,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,The drug works on the blood.,10/29/2021
+6,bl6,Sifrol,CAPSULES,200,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+7,bl7,Masopen 100/10,INHALANTS,200,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,The drug works on the blood.,10/29/2021
+8,bl8,Sifrol,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+9,bl9,Stalevo 150/37.5/200,LINIMENT,200,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,The drug works on the blood.,10/29/2021
+10,bl10,Syndopa 275,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+11,bl11,Danapha-Trihex 2,LOTIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+12,bl12,Trihexyphenidyl,PASTE,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+13,bl13,Stalevo 150/37.5/200,POWDER,200,12month,9/29/2021,Laboratoires UPSA - France,The drug works on the blood.,10/29/2021
+14,bl14,Madopar HBS,EMULSIONS,200,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,The drug works on the blood.,10/29/2021
+15,bl15,Sifstad 0.18,GELS,200,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+16,bl16,Sifrol,MAGMAS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+17,bl17,Succinimide Pharbiol,MIXTURES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+18,bl18,Apo-Trihex 2mg,LIQUID,200,6month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,The drug works on the blood.,10/29/2021
+19,bl19,Uro-Vaxom,LIQUID,200,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,The drug works on the blood.,10/29/2021
+20,bl20,Althax,TABLETS,200,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,The drug works on the blood.,10/29/2021
+21,bl21,ProIVIG,OIMENTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+22,bl22,Keytruda,LOZENGES,200,12month,9/29/2021,nd-Swift Ltd - INDIA,The drug works on the blood.,10/29/2021
+23,bl23,Beriate,LOZENGES,200,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,The drug works on the blood.,10/29/2021
+24,bl24,Hizentra,OIMENTS,200,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,The drug works on the blood.,10/29/2021
+25,bl25,Privigen,LOZENGES,200,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",The drug works on the blood.,10/29/2021
+26,bl26,Darzalex,PILLS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+27,bl27,Simponi,PELLETS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+28,bl28,Hizentra,PELLETS,200,12month,9/29/2021,Farmak JSC - UKraine,The drug works on the blood.,10/29/2021
+29,bl29,Mabthera,CAPSULES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+30,bl30,Imurel 50mg,CAPSULES,200,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",The drug works on the blood.,10/29/2021
+31,bl31,Prograf,CAPSULES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+32,bl32,HYYR,INHALANTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+33,bl33,Hytinon,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+34,bl34,Tacropic 0.03%,LINIMENT,200,12month,9/29/2021,"Micro Labs., Ltd - INDIA",The drug works on the blood.,10/29/2021
+35,bl35,Prograf,LINIMENT,200,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",The drug works on the blood.,10/29/2021
+36,bl36,Iritero 100mg/5ml,LOTIONS,200,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,The drug works on the blood.,10/29/2021
+37,bl37,Prograf 0.5mg,PASTE,500,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",The drug works on the blood.,10/29/2021
+38,bl38,Phastarxin,POWDER,500,12month,9/29/2021,Cenexi SAS - FRANCE,The drug works on the blood.,10/29/2021
+39,bl39,Fluzinstad 5,EMULSIONS,500,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,The drug works on the blood.,10/29/2021
+40,bl40,Sobelin,GELS,500,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",The drug works on the blood.,10/29/2021
+41,bl41,Reinal,MAGMAS,500,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+42,bl42,Siberian,MIXTURES,500,12month,9/29/2021,Stellapharm - VIETNAM,The drug works on the blood.,10/29/2021
+43,bl43,Lelocin 5,LIQUID,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+44,bl44,Sarah Cap,LIQUID,500,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,The drug works on the blood.,10/29/2021
+45,bl45,Reinal-5,TABLETS,500,12month,9/29/2021,Novartis Farma S.P.A Italy,The drug works on the blood.,10/29/2021
+46,bl46,Lelocin 5,OIMENTS,500,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,The drug works on the blood.,10/29/2021
+47,bl47,Metomol Tablet,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+48,bl48,Fluthepharm 10,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+49,bl49,Lodegald-Flunarizin,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+50,bl50,Sibendina,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+51,bl51,Virtizin 5,OIMENTS,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+52,bl52,Sibetinic Soft,LOZENGES,500,12month,9/29/2021,Pharmedic,The drug works on the blood.,10/29/2021
+53,bl53,Sibetinic,LOZENGES,500,12month,9/29/2021,Orion Corporation,The drug works on the blood.,10/29/2021
+54,bl54,Hagizin,OIMENTS,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+55,bl55,Mezapizine 10,LOZENGES,500,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,The drug works on the blood.,10/29/2021
+56,bl56,Sobelin,PILLS,500,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+57,bl57,Darintab,PELLETS,500,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,The drug works on the blood.,10/29/2021
+58,bl58,Oliveirim,PELLETS,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+59,bl59,Pentoxifylin,CAPSULES,500,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,The drug works on the blood.,10/29/2021
+60,bl60,Advate,CAPSULES,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+61,bl61,Nanokine,CAPSULES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+62,bl62,Epocassa,INHALANTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+63,bl63,Pentoxipharm,LINIMENT,500,12month,9/29/2021,Laboratoires UPSA - France,The drug works on the blood.,10/29/2021
+64,bl64,Sintrom 4,OIMENTS,500,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,The drug works on the blood.,10/29/2021
+65,bl65,Somatin,LOZENGES,500,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+66,bl66,Fontit-F,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+67,bl67,Tophem,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+68,bl68,Gon sa Ezeti-10,LOZENGES,500,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,The drug works on the blood.,10/29/2021
+69,bl69,Arixtra,PILLS,500,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,The drug works on the blood.,10/29/2021
+70,bl70,Toxaxin Inj,PELLETS,500,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,The drug works on the blood.,10/29/2021
+71,bl71,Arixtra,PELLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+72,bl72,Replenine-VF,CAPSULES,500,12month,9/29/2021,nd-Swift Ltd - INDIA,The drug works on the blood.,10/29/2021
+73,bl73,Hezoy,CAPSULES,500,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,The drug works on the blood.,10/29/2021
+74,bl74,Transamin Tablets,CAPSULES,500,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,The drug works on the blood.,10/29/2021
+75,bl75,Pronivel 2000 IU,INHALANTS,500,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",The drug works on the blood.,10/29/2021
+76,bl76,Reliporex 10000 IU s,LINIMENT,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+77,bl77,Haemoctin SDH 250,LINIMENT,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+78,bl78,Reliporex 4000 IU,LINIMENT,500,12month,9/29/2021,Farmak JSC - UKraine,The drug works on the blood.,10/29/2021
+79,bl79,Lefvox-750,LOTIONS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+80,bl80,Ciprofloxacin 500mg,PASTE,500,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",The drug works on the blood.,10/29/2021
+81,bl81,Ledvir,POWDER,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+82,bl82,Vixbarin 400mg,EMULSIONS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+83,bl83,Govou,GELS,500,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+84,bl84,Tavanic,MAGMAS,500,24month,9/29/2021,"Micro Labs., Ltd - INDIA",The drug works on the blood.,10/29/2021
+85,bl85,Tavanic,MIXTURES,500,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",The drug works on the blood.,10/29/2021
+86,bl86,Augmex Duo Tabs,LIQUID,500,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,The drug works on the blood.,10/29/2021
+87,bl87,Acnequidt,LIQUID,500,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",The drug works on the blood.,10/29/2021
+88,bl88,Meropenem 1g,TABLETS,500,12month,9/29/2021,Cenexi SAS - FRANCE,The drug works on the blood.,10/29/2021
+89,bl89,Albendazole 400mg,OIMENTS,500,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,The drug works on the blood.,10/29/2021
+90,bl90,Albendazol Stada 400 mg,LOZENGES,250,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",The drug works on the blood.,10/29/2021
+91,bl91,Virclath,LINIMENT,250,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+92,bl92,Eduar,LINIMENT,250,12month,9/29/2021,Stellapharm - VIETNAM,The drug works on the blood.,10/29/2021
+93,bl93,Salgad,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+94,bl94,Razirax,LOTIONS,250,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,The drug works on the blood.,10/29/2021
+95,bl95,Guilaume,PASTE,250,12month,9/29/2021,Novartis Farma S.P.A Italy,The drug works on the blood.,10/29/2021
+96,bl96,Cybercef 750 mg,GELS,250,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,The drug works on the blood.,10/29/2021
+97,bl97,Medoclav 1g,MAGMAS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+98,bl98,Madopar,MIXTURES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+99,bl99,Trihexyphenidyl 2mg,PILLS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+100,bl100,Stalevo 100/25/200,PELLETS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+101,bl101,Madopar,PELLETS,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+102,bl102,Sifrol,CAPSULES,250,12month,9/29/2021,Pharmedic,The drug works on the blood.,10/29/2021
+103,bl103,Sifrol,CAPSULES,250,12month,9/29/2021,Orion Corporation,The drug works on the blood.,10/29/2021
+104,bl104,Masopen 100/10,CAPSULES,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+105,bl105,Sifrol,INHALANTS,250,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,The drug works on the blood.,10/29/2021
+106,bl106,Stalevo 150/37.5/200,LINIMENT,250,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+107,bl107,Syndopa 275,LINIMENT,250,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,The drug works on the blood.,10/29/2021
+108,bl108,Danapha-Trihex 2,LINIMENT,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+109,bl109,Trihexyphenidyl,LOTIONS,250,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,The drug works on the blood.,10/29/2021
+110,bl110,Stalevo 150/37.5/200,PASTE,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+111,bl111,Madopar HBS,POWDER,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+112,bl112,Sifstad 0.18,EMULSIONS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+113,bl113,Sifrol,GELS,250,12month,9/29/2021,Laboratoires UPSA - France,The drug works on the blood.,10/29/2021
+114,bl114,Succinimide Pharbiol,MAGMAS,250,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,The drug works on the blood.,10/29/2021
+115,bl115,Apo-Trihex 2mg,MIXTURES,250,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+116,bl116,Uro-Vaxom,LIQUID,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+117,bl117,Althax,LIQUID,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+118,bl118,ProIVIG,TABLETS,250,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,The drug works on the blood.,10/29/2021
+119,bl119,Keytruda,OIMENTS,250,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,The drug works on the blood.,10/29/2021
+120,bl120,Beriate,LOZENGES,250,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,The drug works on the blood.,10/29/2021
+121,bl121,Hizentra,LOZENGES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+122,bl122,Privigen,OIMENTS,250,12month,9/29/2021,nd-Swift Ltd - INDIA,The drug works on the blood.,10/29/2021
+123,bl123,Darzalex,LOZENGES,250,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,The drug works on the blood.,10/29/2021
+124,bl124,Simponi,PILLS,250,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,The drug works on the blood.,10/29/2021
+125,bl125,Hizentra,PELLETS,250,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",The drug works on the blood.,10/29/2021
+126,bl126,Mabthera,PELLETS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+127,bl127,Imurel 50mg,CAPSULES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+128,bl128,Prograf,CAPSULES,250,12month,9/29/2021,Farmak JSC - UKraine,The drug works on the blood.,10/29/2021
+129,bl129,HYYR,CAPSULES,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+130,bl130,Hytinon,INHALANTS,250,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",The drug works on the blood.,10/29/2021
+131,bl131,Tacropic 0.03%,LINIMENT,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+132,bl132,Prograf,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+133,bl133,Iritero 100mg/5ml,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+134,bl134,Prograf 0.5mg,LOTIONS,250,12month,9/29/2021,"Micro Labs., Ltd - INDIA",The drug works on the blood.,10/29/2021
+135,bl135,Phastarxin,PASTE,250,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",The drug works on the blood.,10/29/2021
+136,bl136,Fluzinstad 5,POWDER,250,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,The drug works on the blood.,10/29/2021
+137,bl137,Sobelin,EMULSIONS,250,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",The drug works on the blood.,10/29/2021
+138,bl138,Reinal,GELS,250,12month,9/29/2021,Cenexi SAS - FRANCE,The drug works on the blood.,10/29/2021
+139,bl139,Siberian,MAGMAS,250,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,The drug works on the blood.,10/29/2021
+140,bl140,Lelocin 5,MIXTURES,250,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",The drug works on the blood.,10/29/2021
+141,bl141,Sarah Cap,LIQUID,250,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+142,bl142,Reinal-5,LIQUID,250,12month,9/29/2021,Stellapharm - VIETNAM,The drug works on the blood.,10/29/2021
+143,bl143,Lelocin 5,TABLETS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+144,bl144,Metomol Tablet,OIMENTS,250,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,The drug works on the blood.,10/29/2021
+145,bl145,Fluthepharm 10,LOZENGES,250,12month,9/29/2021,Novartis Farma S.P.A Italy,The drug works on the blood.,10/29/2021
+146,bl146,Lodegald-Flunarizin,LOZENGES,250,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,The drug works on the blood.,10/29/2021
+147,bl147,Sibendina,OIMENTS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+148,bl148,Virtizin 5,LOZENGES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+149,bl149,Sibetinic Soft,OIMENTS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+150,bl150,Sibetinic,LOZENGES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+151,bl151,Hagizin,LOZENGES,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+152,bl152,Mezapizine 10,OIMENTS,250,12month,9/29/2021,Pharmedic,The drug works on the blood.,10/29/2021
+153,bl153,Sobelin,LOZENGES,250,12month,9/29/2021,Orion Corporation,The drug works on the blood.,10/29/2021
+154,bl154,Darintab,PILLS,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",The drug works on the blood.,10/29/2021
+155,bl155,Oliveirim,PELLETS,250,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,The drug works on the blood.,10/29/2021
+156,bl156,Pentoxifylin,PELLETS,250,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+157,bl157,Advate,CAPSULES,250,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,The drug works on the blood.,10/29/2021
+158,bl158,Nanokine,CAPSULES,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+159,bl159,Epocassa,CAPSULES,250,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,The drug works on the blood.,10/29/2021
+160,bl160,Pentoxipharm,INHALANTS,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,The drug works on the blood.,10/29/2021
+161,bl161,Sintrom 4,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+162,bl162,Somatin,OIMENTS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+163,bl163,Fontit-F,LOZENGES,250,12month,9/29/2021,Laboratoires UPSA - France,The drug works on the blood.,10/29/2021
+164,bl164,Tophem,LOZENGES,250,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,The drug works on the blood.,10/29/2021
+165,bl165,Gon sa Ezeti-10,OIMENTS,250,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+166,bl166,Arixtra,LOZENGES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+167,bl167,Toxaxin Inj,PILLS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+168,bl168,Arixtra,PELLETS,250,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,The drug works on the blood.,10/29/2021
+169,bl169,Replenine-VF,PELLETS,250,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,The drug works on the blood.,10/29/2021
+170,bl170,Hezoy,CAPSULES,250,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,The drug works on the blood.,10/29/2021
+171,bl171,Transamin Tablets,CAPSULES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+172,bl172,Pronivel 2000 IU,CAPSULES,250,12month,9/29/2021,nd-Swift Ltd - INDIA,The drug works on the blood.,10/29/2021
+173,bl173,Reliporex 10000 IU s,INHALANTS,250,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,The drug works on the blood.,10/29/2021
+174,bl174,Haemoctin SDH 250,LINIMENT,250,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,The drug works on the blood.,10/29/2021
+175,bl175,Reliporex 4000 IU,LINIMENT,250,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",The drug works on the blood.,10/29/2021
+176,bl176,Lefvox-750,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+177,bl177,Ciprofloxacin 500mg,LOTIONS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+178,bl178,Ledvir,PASTE,250,12month,9/29/2021,Farmak JSC - UKraine,The drug works on the blood.,10/29/2021
+179,bl179,Vixbarin 400mg,POWDER,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+180,bl180,Govou,EMULSIONS,250,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",The drug works on the blood.,10/29/2021
+181,bl181,Tavanic,GELS,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,The drug works on the blood.,10/29/2021
+182,bl182,Tavanic,MAGMAS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+183,bl183,Augmex Duo Tabs,MIXTURES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+184,bl184,Acnequidt,LIQUID,250,12month,9/29/2021,"Micro Labs., Ltd - INDIA",The drug works on the blood.,10/29/2021
+185,bl185,Meropenem 1g,LIQUID,250,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",The drug works on the blood.,10/29/2021
+186,bl186,Albendazole 400mg,TABLETS,250,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,The drug works on the blood.,10/29/2021
+187,bl187,Albendazol Stada 400 mg,OIMENTS,250,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",The drug works on the blood.,10/29/2021
+188,bl188,Virclath,LOZENGES,250,12month,9/29/2021,Cenexi SAS - FRANCE,The drug works on the blood.,10/29/2021
+189,bl189,Eduar,LINIMENT,250,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,The drug works on the blood.,10/29/2021
+190,bl190,Salgad,LINIMENT,250,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",The drug works on the blood.,10/29/2021
+191,bl191,Razirax,LINIMENT,250,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,The drug works on the blood.,10/29/2021
+192,bl192,Guilaume,LOTIONS,250,12month,9/29/2021,Stellapharm - VIETNAM,The drug works on the blood.,10/29/2021
+193,bl193,Cybercef 750 mg,PASTE,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+194,bl194,Medoclav 1g,GELS,250,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,The drug works on the blood.,10/29/2021
+195,bl195,Madopar,MAGMAS,250,12month,9/29/2021,Novartis Farma S.P.A Italy,The drug works on the blood.,10/29/2021
+196,bl196,Trihexyphenidyl 2mg,MIXTURES,250,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,The drug works on the blood.,10/29/2021
+197,bl197,Stalevo 100/25/200,GELS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+198,bl198,Madopar,MAGMAS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+199,bl199,Sifrol,MIXTURES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,The drug works on the blood.,10/29/2021
+200,pa1,Danapha-Trihex 2,LIQUID,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+201,pa2,Trihexyphenidyl,LIQUID,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+202,pa3,Stalevo 150/37.5/200,TABLETS,250,12month,9/29/2021,Pharmedic,Anti-Parkinson's drugs,10/29/2021
+203,pa4,Madopar HBS,OIMENTS,250,12month,9/29/2021,Orion Corporation,Anti-Parkinson's drugs,10/29/2021
+204,pa5,Sifstad 0.18,LOZENGES,250,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+205,pa6,Sifrol,LINIMENT,250,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-Parkinson's drugs,10/29/2021
+206,pa7,Succinimide Pharbiol,LINIMENT,250,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+207,pa8,Apo-Trihex 2mg,LINIMENT,250,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+208,pa9,Uro-Vaxom,LOTIONS,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+209,pa10,Althax,PASTE,250,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-Parkinson's drugs,10/29/2021
+210,pa11,Sifrol,GELS,250,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+211,pa12,Succinimide Pharbiol,MAGMAS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+212,pa13,Apo-Trihex 2mg,MIXTURES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+213,pa14,Uro-Vaxom,PILLS,250,12month,9/29/2021,Laboratoires UPSA - France,Anti-Parkinson's drugs,10/29/2021
+214,pa15,Althax,PELLETS,250,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-Parkinson's drugs,10/29/2021
+215,pa16,ProIVIG,PELLETS,250,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+216,pa17,Keytruda,CAPSULES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+217,pa18,Beriate,CAPSULES,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+218,pa19,Hizentra,CAPSULES,250,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-Parkinson's drugs,10/29/2021
+219,pa20,Privigen,INHALANTS,250,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-Parkinson's drugs,10/29/2021
+220,pa21,Darzalex,LINIMENT,250,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+221,pa22,Simponi,LINIMENT,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+222,pa23,Hizentra,LINIMENT,250,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-Parkinson's drugs,10/29/2021
+223,pa24,Mabthera,LOTIONS,250,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+224,pa25,Imurel 50mg,PASTE,250,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-Parkinson's drugs,10/29/2021
+225,pa26,Prograf,POWDER,250,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-Parkinson's drugs,10/29/2021
+226,pa27,HYYR,EMULSIONS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+227,pa28,Hytinon,GELS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+228,pa29,Tacropic 0.03%,MAGMAS,250,12month,9/29/2021,Farmak JSC - UKraine,Anti-Parkinson's drugs,10/29/2021
+229,pa30,Prograf,MIXTURES,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+230,pa31,Iritero 100mg/5ml,LIQUID,250,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+231,pa32,Prograf 0.5mg,LIQUID,250,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+232,pa33,Phastarxin,TABLETS,250,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+233,pa34,Fluzinstad 5,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+234,pa35,Sobelin,LOZENGES,500,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+235,pa36,Reinal,LOZENGES,500,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+236,pa37,Siberian,OIMENTS,500,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+237,pa38,Lelocin 5,LOZENGES,500,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-Parkinson's drugs,10/29/2021
+238,pa39,Sarah Cap,PILLS,500,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-Parkinson's drugs,10/29/2021
+239,pa40,Reinal-5,PELLETS,500,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-Parkinson's drugs,10/29/2021
+240,pa41,Lelocin 5,PELLETS,500,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+241,pa42,Metomol Tablet,CAPSULES,500,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+242,pa43,Fluthepharm 10,CAPSULES,500,12month,9/29/2021,Stellapharm - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+243,pa44,Lodegald-Flunarizin,CAPSULES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+244,pa45,Sibendina,INHALANTS,500,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-Parkinson's drugs,10/29/2021
+245,pa46,Virtizin 5,LINIMENT,500,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-Parkinson's drugs,10/29/2021
+246,pa47,Sibetinic Soft,LINIMENT,500,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-Parkinson's drugs,10/29/2021
+247,pa48,Sibetinic,LINIMENT,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+248,pa49,Hagizin,LOTIONS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+249,pa50,Mezapizine 10,PASTE,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+250,pa51,Sobelin,POWDER,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+251,pa52,Darintab,EMULSIONS,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+252,pa53,Oliveirim,GELS,500,12month,9/29/2021,Pharmedic,Anti-Parkinson's drugs,10/29/2021
+253,pa54,Pentoxifylin,MAGMAS,500,12month,9/29/2021,Orion Corporation,Anti-Parkinson's drugs,10/29/2021
+254,pa55,Advate,MIXTURES,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+255,pa56,Nanokine,LIQUID,500,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-Parkinson's drugs,10/29/2021
+256,pa57,Epocassa,LIQUID,500,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+257,pa58,Pentoxipharm,TABLETS,500,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+258,pa59,Sintrom 4,OIMENTS,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+259,pa60,Somatin,LOZENGES,500,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-Parkinson's drugs,10/29/2021
+260,pa61,Fontit-F,LOZENGES,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+261,pa62,Tophem,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+262,pa63,Gon sa Ezeti-10,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+263,pa64,Arixtra,OIMENTS,500,12month,9/29/2021,Laboratoires UPSA - France,Anti-Parkinson's drugs,10/29/2021
+264,pa65,Toxaxin Inj,LOZENGES,500,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-Parkinson's drugs,10/29/2021
+265,pa66,Arixtra,LOZENGES,500,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+266,pa67,Replenine-VF,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+267,pa68,Hezoy,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+268,pa69,Transamin Tablets,PILLS,500,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-Parkinson's drugs,10/29/2021
+269,pa70,Pronivel 2000 IU,PELLETS,500,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-Parkinson's drugs,10/29/2021
+270,pa71,Reliporex 10000 IU s,PELLETS,500,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+271,pa72,Haemoctin SDH 250,CAPSULES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+272,pa73,Reliporex 4000 IU,CAPSULES,500,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-Parkinson's drugs,10/29/2021
+273,pa74,Lefvox-750,CAPSULES,500,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+274,pa75,Ciprofloxacin 500mg,INHALANTS,500,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-Parkinson's drugs,10/29/2021
+275,pa76,Ledvir,LINIMENT,500,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-Parkinson's drugs,10/29/2021
+276,pa77,Vixbarin 400mg,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+277,pa78,Govou,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+278,pa79,Tavanic,LOZENGES,500,12month,9/29/2021,Farmak JSC - UKraine,Anti-Parkinson's drugs,10/29/2021
+279,pa80,Tavanic,OIMENTS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+280,pa81,Augmex Duo Tabs,LOZENGES,500,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+281,pa82,Acnequidt,PILLS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+282,pa83,Meropenem 1g,PELLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+283,pa84,Albendazole 400mg,PELLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+284,pa85,Albendazol Stada 400 mg,CAPSULES,500,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+285,pa86,Virclath,CAPSULES,500,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+286,pa87,Eduar,CAPSULES,500,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+287,pa88,Salgad,INHALANTS,500,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-Parkinson's drugs,10/29/2021
+288,pa89,Razirax,LINIMENT,500,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-Parkinson's drugs,10/29/2021
+289,pa90,Guilaume,LINIMENT,500,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-Parkinson's drugs,10/29/2021
+290,pa91,Cybercef 750 mg,LINIMENT,500,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+291,pa92,Medoclav 1g,LOTIONS,500,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+292,pa93,Madopar,PASTE,500,12month,9/29/2021,Stellapharm - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+293,pa94,Trihexyphenidyl 2mg,POWDER,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+294,pa95,Stalevo 100/25/200,EMULSIONS,500,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-Parkinson's drugs,10/29/2021
+295,pa96,Madopar,GELS,500,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-Parkinson's drugs,10/29/2021
+296,pa97,Sifrol,MAGMAS,500,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-Parkinson's drugs,10/29/2021
+297,pa98,Sifrol,MIXTURES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+298,pa99,Masopen 100/10,LIQUID,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+299,pa100,Sifrol,LIQUID,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+300,pa101,Stalevo 150/37.5/200,TABLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+301,pa102,Syndopa 275,OIMENTS,500,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-Parkinson's drugs,10/29/2021
+302,pa103,Danapha-Trihex 2,LOZENGES,500,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+303,pa104,Trihexyphenidyl,LINIMENT,500,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+304,pa105,Stalevo 150/37.5/200,LINIMENT,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+305,pa106,Madopar HBS,LINIMENT,500,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-Parkinson's drugs,10/29/2021
+306,pa107,Sifstad 0.18,LOTIONS,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+307,pa108,Sifrol,PASTE,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+308,pa109,Succinimide Pharbiol,GELS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+309,pa110,Apo-Trihex 2mg,MAGMAS,500,12month,9/29/2021,Laboratoires UPSA - France,Anti-Parkinson's drugs,10/29/2021
+310,pa111,Uro-Vaxom,MIXTURES,500,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-Parkinson's drugs,10/29/2021
+311,pa112,Althax,GELS,500,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+312,pa113,ProIVIG,MAGMAS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+313,pa114,Keytruda,MIXTURES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+314,pa115,Beriate,LIQUID,500,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-Parkinson's drugs,10/29/2021
+315,pa116,Hizentra,LIQUID,500,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-Parkinson's drugs,10/29/2021
+316,pa117,Privigen,TABLETS,500,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+317,pa118,Darzalex,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+318,pa119,Simponi,LOZENGES,500,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-Parkinson's drugs,10/29/2021
+319,pa120,Hizentra,LINIMENT,500,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+320,pa121,Mabthera,LINIMENT,500,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-Parkinson's drugs,10/29/2021
+321,pa122,Imurel 50mg,LINIMENT,500,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-Parkinson's drugs,10/29/2021
+322,pa123,Prograf,LOTIONS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+323,pa124,HYYR,PASTE,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+324,pa125,Hytinon,GELS,500,12month,9/29/2021,Farmak JSC - UKraine,Anti-Parkinson's drugs,10/29/2021
+325,pa126,Tacropic 0.03%,MAGMAS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+326,pa127,Prograf,MIXTURES,500,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+327,pa128,Iritero 100mg/5ml,PILLS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+328,pa129,Prograf 0.5mg,PELLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+329,pa130,Phastarxin,PELLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+330,pa131,Fluzinstad 5,CAPSULES,500,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+331,pa132,Sobelin,CAPSULES,500,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+332,pa133,Reinal,CAPSULES,500,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+333,pa134,Siberian,INHALANTS,500,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-Parkinson's drugs,10/29/2021
+334,pa135,Lelocin 5,LINIMENT,500,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-Parkinson's drugs,10/29/2021
+335,pa136,Sarah Cap,LINIMENT,500,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-Parkinson's drugs,10/29/2021
+336,pa137,Reinal-5,LINIMENT,500,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+337,pa138,Lelocin 5,LOTIONS,500,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+338,pa139,Metomol Tablet,PASTE,500,12month,9/29/2021,Stellapharm - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+339,pa140,Fluthepharm 10,POWDER,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+340,pa141,Lodegald-Flunarizin,EMULSIONS,500,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-Parkinson's drugs,10/29/2021
+341,pa142,Sibendina,GELS,500,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-Parkinson's drugs,10/29/2021
+342,pa143,Virtizin 5,MAGMAS,500,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-Parkinson's drugs,10/29/2021
+343,pa144,Sibetinic Soft,MIXTURES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+344,pa145,Sibetinic,LIQUID,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+345,pa146,Hagizin,LIQUID,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+346,pa147,Mezapizine 10,TABLETS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+347,pa148,Sobelin,OIMENTS,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+348,pa149,Darintab,LOZENGES,500,12month,9/29/2021,Pharmedic,Anti-Parkinson's drugs,10/29/2021
+349,pa150,Oliveirim,LOZENGES,500,12month,9/29/2021,Orion Corporation,Anti-Parkinson's drugs,10/29/2021
+350,pa151,Pentoxifylin,OIMENTS,500,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+351,pa152,Advate,LOZENGES,500,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-Parkinson's drugs,10/29/2021
+352,pa153,Nanokine,PILLS,500,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+353,pa154,Epocassa,PELLETS,500,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+354,pa155,Pentoxipharm,PELLETS,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+355,pa156,Sintrom 4,CAPSULES,500,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-Parkinson's drugs,10/29/2021
+356,pa157,Somatin,CAPSULES,500,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-Parkinson's drugs,10/29/2021
+357,pa158,Fontit-F,CAPSULES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+358,pa159,Tophem,INHALANTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+359,pa160,Gon sa Ezeti-10,LINIMENT,500,12month,9/29/2021,Laboratoires UPSA - France,Anti-Parkinson's drugs,10/29/2021
+360,pa161,Arixtra,LINIMENT,500,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-Parkinson's drugs,10/29/2021
+361,pa162,Toxaxin Inj,LINIMENT,500,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+362,pa163,Arixtra,LOTIONS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+363,pa164,Replenine-VF,PASTE,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+364,pa165,Hezoy,POWDER,500,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-Parkinson's drugs,10/29/2021
+365,pa166,Transamin Tablets,EMULSIONS,500,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-Parkinson's drugs,10/29/2021
+366,pa167,Pronivel 2000 IU,GELS,500,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+367,pa168,Reliporex 10000 IU s,MAGMAS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+368,pa169,Haemoctin SDH 250,MIXTURES,500,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-Parkinson's drugs,10/29/2021
+369,pa170,Reliporex 4000 IU,LIQUID,500,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+370,pa171,Lefvox-750,LIQUID,500,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-Parkinson's drugs,10/29/2021
+371,pa172,Ciprofloxacin 500mg,TABLETS,500,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-Parkinson's drugs,10/29/2021
+372,pa173,Ledvir,OIMENTS,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+373,pa174,Vixbarin 400mg,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+374,pa175,Govou,LOZENGES,500,12month,9/29/2021,Farmak JSC - UKraine,Anti-Parkinson's drugs,10/29/2021
+375,pa176,Tavanic,OIMENTS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+376,pa177,Tavanic,LOZENGES,500,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+377,pa178,Augmex Duo Tabs,OIMENTS,500,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+378,pa179,Acnequidt,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+379,pa180,Meropenem 1g,LOZENGES,500,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+380,pa181,Albendazole 400mg,OIMENTS,500,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+381,pa182,Albendazol Stada 400 mg,LOZENGES,500,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+382,pa183,Virclath,PILLS,500,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+383,pa184,Eduar,PELLETS,200,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-Parkinson's drugs,10/29/2021
+384,pa185,Salgad,PELLETS,200,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-Parkinson's drugs,10/29/2021
+385,pa186,Razirax,CAPSULES,200,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-Parkinson's drugs,10/29/2021
+386,pa187,Guilaume,CAPSULES,200,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-Parkinson's drugs,10/29/2021
+387,pa188,Cybercef 750 mg,CAPSULES,200,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+388,pa189,Medoclav 1g,INHALANTS,200,12month,9/29/2021,Stellapharm - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+389,pa190,Madopar,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+390,pa191,Trihexyphenidyl 2mg,OIMENTS,200,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-Parkinson's drugs,10/29/2021
+391,pa192,Stalevo 100/25/200,LOZENGES,200,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-Parkinson's drugs,10/29/2021
+392,pa193,Madopar,LOZENGES,200,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-Parkinson's drugs,10/29/2021
+393,pa194,Sifrol,OIMENTS,200,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+394,pa195,Sifrol,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+395,pa196,Masopen 100/10,PILLS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+396,pa197,Sifrol,PELLETS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-Parkinson's drugs,10/29/2021
+397,pa198,Stalevo 150/37.5/200,PELLETS,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-Parkinson's drugs,10/29/2021
+398,pa199,Syndopa 275,CAPSULES,200,12month,9/29/2021,Pharmedic,Anti-Parkinson's drugs,10/29/2021
+399,pa200,Danapha-Trihex 2,CAPSULES,200,12month,9/29/2021,Orion Corporation,Anti-Parkinson's drugs,10/29/2021
+400,ca1,Prograf,CAPSULES,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+401,ca2,Iritero 100mg/5ml,INHALANTS,200,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-cancer drugs and the impact on the immune system,10/29/2021
+402,ca3,Prograf 0.5mg,LINIMENT,200,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+403,ca4,Phastarxin,LINIMENT,200,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+404,ca5,Fluzinstad 5,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+405,ca6,Sobelin,LOTIONS,200,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+406,ca7,Reinal,PASTE,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+407,ca8,Siberian,POWDER,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+408,ca9,Lelocin 5,EMULSIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+409,ca10,Sarah Cap,GELS,200,12month,9/29/2021,Laboratoires UPSA - France,Anti-cancer drugs and the impact on the immune system,10/29/2021
+410,ca11,Keytruda,MAGMAS,200,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-cancer drugs and the impact on the immune system,10/29/2021
+411,ca12,Beriate,MIXTURES,200,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+412,ca13,Hizentra,LIQUID,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+413,ca14,Privigen,LIQUID,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+414,ca15,Darzalex,TABLETS,200,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-cancer drugs and the impact on the immune system,10/29/2021
+415,ca16,Simponi,OIMENTS,200,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+416,ca17,Hizentra,LOZENGES,200,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+417,ca18,Mabthera,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+418,ca19,Imurel 50mg,LINIMENT,200,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+419,ca20,Prograf,LINIMENT,200,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+420,ca21,HYYR,LOTIONS,200,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+421,ca22,Hytinon,PASTE,200,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+422,ca23,Tacropic 0.03%,GELS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+423,ca24,Prograf,MAGMAS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+424,ca25,Iritero 100mg/5ml,MIXTURES,200,12month,9/29/2021,Farmak JSC - UKraine,Anti-cancer drugs and the impact on the immune system,10/29/2021
+425,ca26,Prograf 0.5mg,PASTE,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+426,ca27,Phastarxin,GELS,200,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+427,ca28,Fluzinstad 5,MAGMAS,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+428,ca29,Sobelin,MIXTURES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+429,ca30,Reinal,PILLS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+430,ca31,Siberian,PELLETS,200,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+431,ca32,Lelocin 5,PELLETS,200,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+432,ca33,Sarah Cap,CAPSULES,200,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+433,ca34,Reinal-5,CAPSULES,200,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+434,ca35,Lelocin 5,CAPSULES,200,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-cancer drugs and the impact on the immune system,10/29/2021
+435,ca36,Metomol Tablet,INHALANTS,200,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+436,ca37,Fluthepharm 10,LINIMENT,200,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+437,ca38,Lodegald-Flunarizin,LINIMENT,200,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+438,ca39,Sibendina,LINIMENT,200,12month,9/29/2021,Stellapharm - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+439,ca40,Virtizin 5,LOTIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+440,ca41,Sibetinic Soft,PASTE,200,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-cancer drugs and the impact on the immune system,10/29/2021
+441,ca42,Sibetinic,POWDER,200,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-cancer drugs and the impact on the immune system,10/29/2021
+442,ca43,Hagizin,EMULSIONS,200,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-cancer drugs and the impact on the immune system,10/29/2021
+443,ca44,Mezapizine 10,GELS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+444,ca45,Sobelin,MAGMAS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+445,ca46,Darintab,MIXTURES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+446,ca47,Oliveirim,LIQUID,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+447,ca48,Pentoxifylin,LIQUID,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+448,ca49,Advate,TABLETS,200,12month,9/29/2021,Orion Corporation,Anti-cancer drugs and the impact on the immune system,10/29/2021
+449,ca50,Nanokine,OIMENTS,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+450,ca51,Epocassa,LOZENGES,200,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-cancer drugs and the impact on the immune system,10/29/2021
+451,ca52,Pentoxipharm,LOZENGES,200,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+452,ca53,Sintrom 4,OIMENTS,200,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+453,ca54,Somatin,LOZENGES,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+454,ca55,Fontit-F,PILLS,200,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+455,ca56,Tophem,PELLETS,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+456,ca57,Gon sa Ezeti-10,PELLETS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+457,ca58,Arixtra,CAPSULES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+458,ca59,Toxaxin Inj,CAPSULES,200,12month,9/29/2021,Laboratoires UPSA - France,Anti-cancer drugs and the impact on the immune system,10/29/2021
+459,ca60,Arixtra,CAPSULES,200,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-cancer drugs and the impact on the immune system,10/29/2021
+460,ca61,Replenine-VF,INHALANTS,200,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+461,ca62,Hezoy,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+462,ca63,Transamin Tablets,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+463,ca64,Pronivel 2000 IU,LINIMENT,200,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-cancer drugs and the impact on the immune system,10/29/2021
+464,ca65,Reliporex 10000 IU s,LOTIONS,200,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+465,ca66,Haemoctin SDH 250,PASTE,200,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+466,ca67,Reliporex 4000 IU,POWDER,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+467,ca68,Lefvox-750,EMULSIONS,200,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+468,ca69,Ciprofloxacin 500mg,GELS,200,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+469,ca70,Ledvir,MAGMAS,200,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+470,ca71,Vixbarin 400mg,MIXTURES,200,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+471,ca72,Govou,LIQUID,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+472,ca73,Tavanic,LIQUID,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+473,ca74,Tavanic,TABLETS,200,12month,9/29/2021,Farmak JSC - UKraine,Anti-cancer drugs and the impact on the immune system,10/29/2021
+474,ca75,Augmex Duo Tabs,OIMENTS,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+475,ca76,Acnequidt,LOZENGES,200,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+476,ca77,Meropenem 1g,LOZENGES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+477,ca78,Albendazole 400mg,OIMENTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+478,ca79,Albendazol Stada 400 mg,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+479,ca80,Virclath,OIMENTS,200,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+480,ca81,Eduar,LOZENGES,200,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+481,ca82,Salgad,LOZENGES,200,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+482,ca83,Razirax,OIMENTS,200,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+483,ca84,Guilaume,LOZENGES,200,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-cancer drugs and the impact on the immune system,10/29/2021
+484,ca85,Cybercef 750 mg,PILLS,200,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+485,ca86,Medoclav 1g,PELLETS,200,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+486,ca87,Madopar,PELLETS,200,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+487,ca88,Trihexyphenidyl 2mg,CAPSULES,200,12month,9/29/2021,Stellapharm - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+488,ca89,Stalevo 100/25/200,CAPSULES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+489,ca90,Madopar,CAPSULES,200,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-cancer drugs and the impact on the immune system,10/29/2021
+490,ca91,Sifrol,INHALANTS,200,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-cancer drugs and the impact on the immune system,10/29/2021
+491,ca92,Sifrol,LINIMENT,200,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-cancer drugs and the impact on the immune system,10/29/2021
+492,ca93,Masopen 100/10,OIMENTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+493,ca94,Sifrol,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+494,ca95,Stalevo 150/37.5/200,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+495,ca96,Syndopa 275,OIMENTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+496,ca97,Danapha-Trihex 2,LOZENGES,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+497,ca98,Trihexyphenidyl,PILLS,200,12month,9/29/2021,Pharmedic,Anti-cancer drugs and the impact on the immune system,10/29/2021
+498,ca99,Stalevo 150/37.5/200,PELLETS,200,12month,9/29/2021,Orion Corporation,Anti-cancer drugs and the impact on the immune system,10/29/2021
+499,ca100,Madopar HBS,PELLETS,200,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+500,ca101,Sifstad 0.18,CAPSULES,200,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-cancer drugs and the impact on the immune system,10/29/2021
+501,ca102,Sifrol,CAPSULES,200,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+502,ca103,Succinimide Pharbiol,CAPSULES,200,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+503,ca104,Apo-Trihex 2mg,INHALANTS,200,24month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+504,ca105,Uro-Vaxom,LINIMENT,200,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+505,ca106,Althax,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+506,ca107,ProIVIG,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+507,ca108,Keytruda,LOTIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+508,ca109,Beriate,PASTE,200,12month,9/29/2021,Laboratoires UPSA - France,Anti-cancer drugs and the impact on the immune system,10/29/2021
+509,ca110,Hizentra,POWDER,200,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-cancer drugs and the impact on the immune system,10/29/2021
+510,ca111,Privigen,EMULSIONS,200,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+511,ca112,Darzalex,GELS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+512,ca113,Simponi,MAGMAS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+513,ca114,Hizentra,MIXTURES,200,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-cancer drugs and the impact on the immune system,10/29/2021
+514,ca115,Mabthera,LIQUID,200,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+515,ca116,Imurel 50mg,LIQUID,200,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+516,ca117,Prograf,TABLETS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+517,ca118,HYYR,OIMENTS,200,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+518,ca119,Hytinon,LOZENGES,200,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+519,ca120,Tacropic 0.03%,LINIMENT,200,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+520,ca121,Prograf,LINIMENT,200,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+521,ca122,Iritero 100mg/5ml,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+522,ca123,Prograf 0.5mg,LOTIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+523,ca124,Phastarxin,PILLS,200,12month,9/29/2021,Farmak JSC - UKraine,Anti-cancer drugs and the impact on the immune system,10/29/2021
+524,ca125,Fluzinstad 5,PELLETS,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+525,ca126,Sobelin,PELLETS,200,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+526,ca127,Reinal,CAPSULES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+527,ca128,Siberian,CAPSULES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+528,ca129,Lelocin 5,CAPSULES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+529,ca130,Sarah Cap,INHALANTS,10,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+530,ca131,Reinal-5,LINIMENT,10,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+531,ca132,Lelocin 5,LINIMENT,10,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+532,ca133,Metomol Tablet,LINIMENT,10,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+533,ca134,Fluthepharm 10,LOTIONS,10,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-cancer drugs and the impact on the immune system,10/29/2021
+534,ca135,Lodegald-Flunarizin,PASTE,10,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+535,ca136,Sibendina,POWDER,10,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+536,ca137,Virtizin 5,EMULSIONS,10,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+537,ca138,Sibetinic Soft,GELS,10,12month,9/29/2021,Stellapharm - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+538,ca139,Sibetinic,MAGMAS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+539,ca140,Hagizin,MIXTURES,10,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-cancer drugs and the impact on the immune system,10/29/2021
+540,ca141,Mezapizine 10,LIQUID,10,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-cancer drugs and the impact on the immune system,10/29/2021
+541,ca142,Sobelin,LIQUID,10,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-cancer drugs and the impact on the immune system,10/29/2021
+542,ca143,Darintab,TABLETS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+543,ca144,Oliveirim,OIMENTS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+544,ca145,Pentoxifylin,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+545,ca146,Advate,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+546,ca147,Nanokine,OIMENTS,10,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+547,ca148,Epocassa,LOZENGES,10,12month,9/29/2021,Pharmedic,Anti-cancer drugs and the impact on the immune system,10/29/2021
+548,ca149,Pentoxipharm,PILLS,10,12month,9/29/2021,Orion Corporation,Anti-cancer drugs and the impact on the immune system,10/29/2021
+549,ca150,Sintrom 4,PELLETS,10,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+550,ca151,Somatin,PELLETS,10,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Anti-cancer drugs and the impact on the immune system,10/29/2021
+551,ca152,Fontit-F,CAPSULES,10,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+552,ca153,Tophem,CAPSULES,10,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+553,ca154,Gon sa Ezeti-10,CAPSULES,10,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+554,ca155,Arixtra,INHALANTS,10,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+555,ca156,Toxaxin Inj,LINIMENT,10,12month,9/29/2021,B.Braun Melsungen AG - Germany,Anti-cancer drugs and the impact on the immune system,10/29/2021
+556,ca157,Arixtra,LINIMENT,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+557,ca158,Replenine-VF,LINIMENT,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+558,ca159,Hezoy,LOTIONS,10,12month,9/29/2021,Laboratoires UPSA - France,Anti-cancer drugs and the impact on the immune system,10/29/2021
+559,ca160,Transamin Tablets,PASTE,10,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Anti-cancer drugs and the impact on the immune system,10/29/2021
+560,ca161,Pronivel 2000 IU,POWDER,10,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+561,ca162,Reliporex 10000 IU s,EMULSIONS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+562,ca163,Haemoctin SDH 250,GELS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+563,ca164,Reliporex 4000 IU,MAGMAS,10,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Anti-cancer drugs and the impact on the immune system,10/29/2021
+564,ca165,Lefvox-750,MIXTURES,10,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+565,ca166,Ciprofloxacin 500mg,LIQUID,10,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+566,ca167,Ledvir,LIQUID,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+567,ca168,Vixbarin 400mg,TABLETS,10,12month,9/29/2021,nd-Swift Ltd - INDIA,Anti-cancer drugs and the impact on the immune system,10/29/2021
+568,ca169,Govou,OIMENTS,10,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+569,ca170,Tavanic,LOZENGES,10,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+570,ca171,Tavanic,LOZENGES,10,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+571,ca172,Augmex Duo Tabs,OIMENTS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+572,ca173,Acnequidt,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+573,ca174,Meropenem 1g,OIMENTS,10,12month,9/29/2021,Farmak JSC - UKraine,Anti-cancer drugs and the impact on the immune system,10/29/2021
+574,ca175,Albendazole 400mg,LOZENGES,10,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+575,ca176,Albendazol Stada 400 mg,LOZENGES,10,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+576,ca177,Virclath,OIMENTS,10,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+577,ca178,Eduar,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+578,ca179,Salgad,PILLS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+579,ca180,Razirax,PELLETS,10,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+580,ca181,Guilaume,PELLETS,10,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+581,ca182,Cybercef 750 mg,CAPSULES,10,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+582,ca183,Medoclav 1g,CAPSULES,10,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+583,ca184,Madopar,CAPSULES,10,12month,9/29/2021,Cenexi SAS - FRANCE,Anti-cancer drugs and the impact on the immune system,10/29/2021
+584,ca185,Trihexyphenidyl 2mg,INHALANTS,10,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Anti-cancer drugs and the impact on the immune system,10/29/2021
+585,ca186,Stalevo 100/25/200,LINIMENT,10,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Anti-cancer drugs and the impact on the immune system,10/29/2021
+586,ca187,Madopar,OIMENTS,10,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+587,ca188,Sifrol,LOZENGES,10,12month,9/29/2021,Stellapharm - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+588,ca189,Sifrol,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+589,ca190,Masopen 100/10,OIMENTS,10,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Anti-cancer drugs and the impact on the immune system,10/29/2021
+590,ca191,Sifrol,LOZENGES,10,12month,9/29/2021,Novartis Farma S.P.A Italy,Anti-cancer drugs and the impact on the immune system,10/29/2021
+591,ca192,Stalevo 150/37.5/200,PILLS,10,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Anti-cancer drugs and the impact on the immune system,10/29/2021
+592,ca193,Syndopa 275,PELLETS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+593,ca194,Danapha-Trihex 2,PELLETS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+594,ca195,Trihexyphenidyl,CAPSULES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+595,ca196,Stalevo 150/37.5/200,CAPSULES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Anti-cancer drugs and the impact on the immune system,10/29/2021
+596,ca197,Madopar HBS,CAPSULES,10,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+597,ca198,Sifstad 0.18,INHALANTS,10,12month,9/29/2021,Pharmedic,Anti-cancer drugs and the impact on the immune system,10/29/2021
+598,ca199,Sifrol,LINIMENT,10,12month,9/29/2021,Orion Corporation,Anti-cancer drugs and the impact on the immune system,10/29/2021
+599,ca200,Succinimide Pharbiol,LINIMENT,10,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Anti-cancer drugs and the impact on the immune system,10/29/2021
+600,he1,Virtizin 5,LINIMENT,10,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Migraine medications,10/29/2021
+601,he2,Sibetinic Soft,LOTIONS,10,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+602,he3,Sibetinic,PASTE,10,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Migraine medications,10/29/2021
+603,he4,Hagizin,POWDER,10,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+604,he5,Mezapizine 10,EMULSIONS,10,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Migraine medications,10/29/2021
+605,he6,Sobelin,GELS,10,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+606,he7,Darintab,MAGMAS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+607,he8,Oliveirim,MIXTURES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+608,he9,Pentoxifylin,LIQUID,10,12month,9/29/2021,Laboratoires UPSA - France,Migraine medications,10/29/2021
+609,he10,Advate,LIQUID,10,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Migraine medications,10/29/2021
+610,he11,Hizentra,TABLETS,10,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+611,he12,Mabthera,OIMENTS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+612,he13,Imurel 50mg,LOZENGES,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+613,he14,Prograf,LINIMENT,10,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Migraine medications,10/29/2021
+614,he15,HYYR,LINIMENT,10,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Migraine medications,10/29/2021
+615,he16,Hytinon,LINIMENT,10,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Migraine medications,10/29/2021
+616,he17,Tacropic 0.03%,LOTIONS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+617,he18,Prograf,PASTE,10,12month,9/29/2021,nd-Swift Ltd - INDIA,Migraine medications,10/29/2021
+618,he19,Iritero 100mg/5ml,GELS,10,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Migraine medications,10/29/2021
+619,he20,Prograf 0.5mg,MAGMAS,10,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Migraine medications,10/29/2021
+620,he21,Phastarxin,MIXTURES,10,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Migraine medications,10/29/2021
+621,he22,Fluzinstad 5,PILLS,10,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+622,he23,Sobelin,PELLETS,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+623,he24,Reinal,PELLETS,10,24month,9/29/2021,Farmak JSC - UKraine,Migraine medications,10/29/2021
+624,he25,Siberian,CAPSULES,10,24month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+625,he26,Lelocin 5,CAPSULES,10,24month,9/29/2021,"Ind-Swift., Ltd - INDIA",Migraine medications,10/29/2021
+626,he27,Sarah Cap,CAPSULES,10,24month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+627,he28,Reinal-5,INHALANTS,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+628,he29,Lelocin 5,LINIMENT,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+629,he30,Metomol Tablet,LINIMENT,10,24month,9/29/2021,"Micro Labs., Ltd - INDIA",Migraine medications,10/29/2021
+630,he31,Fluthepharm 10,LINIMENT,10,24month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Migraine medications,10/29/2021
+631,he32,Lodegald-Flunarizin,LOTIONS,10,24month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Migraine medications,10/29/2021
+632,he33,Sibendina,PASTE,10,24month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Migraine medications,10/29/2021
+633,he34,Virtizin 5,POWDER,10,24month,9/29/2021,Cenexi SAS - FRANCE,Migraine medications,10/29/2021
+634,he35,Sibetinic Soft,EMULSIONS,10,24month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Migraine medications,10/29/2021
+635,he36,Sibetinic,GELS,10,24month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Migraine medications,10/29/2021
+636,he37,Hagizin,MAGMAS,10,24month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+637,he38,Mezapizine 10,MIXTURES,10,24month,9/29/2021,Stellapharm - VIETNAM,Migraine medications,10/29/2021
+638,he39,Sobelin,LIQUID,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+639,he40,Darintab,LIQUID,10,24month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Migraine medications,10/29/2021
+640,he41,Oliveirim,TABLETS,10,24month,9/29/2021,Novartis Farma S.P.A Italy,Migraine medications,10/29/2021
+641,he42,Pentoxifylin,OIMENTS,10,24month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Migraine medications,10/29/2021
+642,he43,Advate,LOZENGES,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+643,he44,Nanokine,LOZENGES,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+644,he45,Epocassa,OIMENTS,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+645,he46,Pentoxipharm,LOZENGES,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+646,he47,Sintrom 4,PILLS,10,24month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+647,he48,Somatin,PELLETS,10,24month,9/29/2021,Pharmedic,Migraine medications,10/29/2021
+648,he49,Fontit-F,PELLETS,10,24month,9/29/2021,Orion Corporation,Migraine medications,10/29/2021
+649,he50,Tophem,CAPSULES,10,24month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+650,he51,Gon sa Ezeti-10,CAPSULES,10,24month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Migraine medications,10/29/2021
+651,he52,Arixtra,CAPSULES,10,24month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+652,he53,Toxaxin Inj,INHALANTS,10,24month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Migraine medications,10/29/2021
+653,he54,Arixtra,LINIMENT,10,24month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+654,he55,Replenine-VF,LINIMENT,10,24month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Migraine medications,10/29/2021
+655,he56,Hezoy,LINIMENT,10,24month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+656,he57,Transamin Tablets,LOTIONS,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+657,he58,Pronivel 2000 IU,PASTE,10,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+658,he59,Reliporex 10000 IU s,POWDER,10,24month,9/29/2021,Laboratoires UPSA - France,Migraine medications,10/29/2021
+659,he60,Haemoctin SDH 250,EMULSIONS,10,24month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Migraine medications,10/29/2021
+660,he61,Reliporex 4000 IU,GELS,100,24month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+661,he62,Lefvox-750,MAGMAS,100,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+662,he63,Ciprofloxacin 500mg,MIXTURES,100,24month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+663,he64,Ledvir,LIQUID,100,24month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Migraine medications,10/29/2021
+664,he65,Vixbarin 400mg,LIQUID,100,24month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Migraine medications,10/29/2021
+665,he66,Govou,TABLETS,100,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Migraine medications,10/29/2021
+666,he67,Tavanic,OIMENTS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+667,he68,Tavanic,LOZENGES,100,12month,9/29/2021,nd-Swift Ltd - INDIA,Migraine medications,10/29/2021
+668,he69,Augmex Duo Tabs,LOZENGES,100,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Migraine medications,10/29/2021
+669,he70,Acnequidt,OIMENTS,100,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Migraine medications,10/29/2021
+670,he71,Meropenem 1g,LOZENGES,100,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Migraine medications,10/29/2021
+671,he72,Albendazole 400mg,OIMENTS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+672,he73,Albendazol Stada 400 mg,LOZENGES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+673,he74,Virclath,LOZENGES,100,12month,9/29/2021,Farmak JSC - UKraine,Migraine medications,10/29/2021
+674,he75,Eduar,OIMENTS,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+675,he76,Salgad,LOZENGES,100,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Migraine medications,10/29/2021
+676,he77,Razirax,PILLS,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+677,he78,Guilaume,PELLETS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+678,he79,Cybercef 750 mg,PELLETS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+679,he80,Medoclav 1g,CAPSULES,100,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Migraine medications,10/29/2021
+680,he81,Madopar,CAPSULES,100,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Migraine medications,10/29/2021
+681,he82,Trihexyphenidyl 2mg,CAPSULES,100,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Migraine medications,10/29/2021
+682,he83,Stalevo 100/25/200,INHALANTS,100,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Migraine medications,10/29/2021
+683,he84,Madopar,LINIMENT,100,12month,9/29/2021,Cenexi SAS - FRANCE,Migraine medications,10/29/2021
+684,he85,Sifrol,OIMENTS,100,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Migraine medications,10/29/2021
+685,he86,Sifrol,LOZENGES,100,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Migraine medications,10/29/2021
+686,he87,Masopen 100/10,LOZENGES,100,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+687,he88,Sifrol,OIMENTS,100,12month,9/29/2021,Stellapharm - VIETNAM,Migraine medications,10/29/2021
+688,he89,Stalevo 150/37.5/200,LOZENGES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+689,he90,Syndopa 275,PILLS,100,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Migraine medications,10/29/2021
+690,he91,Danapha-Trihex 2,PELLETS,100,12month,9/29/2021,Novartis Farma S.P.A Italy,Migraine medications,10/29/2021
+691,he92,Trihexyphenidyl,PELLETS,100,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Migraine medications,10/29/2021
+692,he93,Stalevo 150/37.5/200,CAPSULES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+693,he94,Madopar HBS,CAPSULES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+694,he95,Sifstad 0.18,CAPSULES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+695,he96,Sifrol,INHALANTS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+696,he97,Succinimide Pharbiol,LINIMENT,100,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+697,he98,Apo-Trihex 2mg,LINIMENT,100,12month,9/29/2021,Pharmedic,Migraine medications,10/29/2021
+698,he99,Uro-Vaxom,LINIMENT,100,12month,9/29/2021,Orion Corporation,Migraine medications,10/29/2021
+699,he100,Althax,LOTIONS,100,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+700,he101,ProIVIG,PASTE,100,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Migraine medications,10/29/2021
+701,he102,Keytruda,POWDER,100,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+702,he103,Beriate,EMULSIONS,100,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Migraine medications,10/29/2021
+703,he104,Hizentra,GELS,100,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+704,he105,Privigen,MAGMAS,100,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Migraine medications,10/29/2021
+705,he106,Darzalex,MIXTURES,100,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+706,he107,Simponi,LIQUID,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+707,he108,Hizentra,LIQUID,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+708,he109,Mabthera,TABLETS,100,12month,9/29/2021,Laboratoires UPSA - France,Migraine medications,10/29/2021
+709,he110,Imurel 50mg,OIMENTS,100,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Migraine medications,10/29/2021
+710,he111,Prograf,LOZENGES,100,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+711,he112,HYYR,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+712,he113,Hytinon,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+713,he114,Tacropic 0.03%,LINIMENT,100,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Migraine medications,10/29/2021
+714,he115,Prograf,LOTIONS,100,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Migraine medications,10/29/2021
+715,he116,Iritero 100mg/5ml,PASTE,100,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Migraine medications,10/29/2021
+716,he117,Prograf 0.5mg,GELS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+717,he118,Phastarxin,MAGMAS,100,12month,9/29/2021,nd-Swift Ltd - INDIA,Migraine medications,10/29/2021
+718,he119,Fluzinstad 5,MIXTURES,100,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Migraine medications,10/29/2021
+719,he120,Sobelin,GELS,100,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Migraine medications,10/29/2021
+720,he121,Reinal,MAGMAS,100,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Migraine medications,10/29/2021
+721,he122,Siberian,MIXTURES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+722,he123,Lelocin 5,LIQUID,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+723,he124,Sarah Cap,LIQUID,100,12month,9/29/2021,Farmak JSC - UKraine,Migraine medications,10/29/2021
+724,he125,Reinal-5,TABLETS,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+725,he126,Lelocin 5,OIMENTS,100,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Migraine medications,10/29/2021
+726,he127,Metomol Tablet,LOZENGES,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+727,he128,Fluthepharm 10,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+728,he129,Lodegald-Flunarizin,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+729,he130,Sibendina,LINIMENT,100,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Migraine medications,10/29/2021
+730,he131,Virtizin 5,LOTIONS,100,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Migraine medications,10/29/2021
+731,he132,Sibetinic Soft,PASTE,100,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Migraine medications,10/29/2021
+732,he133,Sibetinic,GELS,100,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Migraine medications,10/29/2021
+733,he134,Hagizin,MAGMAS,100,12month,9/29/2021,Cenexi SAS - FRANCE,Migraine medications,10/29/2021
+734,he135,Mezapizine 10,MIXTURES,100,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Migraine medications,10/29/2021
+735,he136,Sobelin,PILLS,100,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Migraine medications,10/29/2021
+736,he137,Darintab,PELLETS,100,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+737,he138,Oliveirim,PELLETS,100,12month,9/29/2021,Stellapharm - VIETNAM,Migraine medications,10/29/2021
+738,he139,Pentoxifylin,CAPSULES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+739,he140,Advate,CAPSULES,100,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Migraine medications,10/29/2021
+740,he141,Nanokine,CAPSULES,100,12month,9/29/2021,Novartis Farma S.P.A Italy,Migraine medications,10/29/2021
+741,he142,Epocassa,INHALANTS,100,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Migraine medications,10/29/2021
+742,he143,Pentoxipharm,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+743,he144,Sintrom 4,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+744,he145,Somatin,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+745,he146,Fontit-F,LOTIONS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+746,he147,Tophem,PASTE,100,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Migraine medications,10/29/2021
+747,he148,Gon sa Ezeti-10,POWDER,100,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+748,he149,Arixtra,EMULSIONS,100,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Migraine medications,10/29/2021
+749,he150,Toxaxin Inj,GELS,100,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+750,he151,Arixtra,MAGMAS,100,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Migraine medications,10/29/2021
+751,he152,Replenine-VF,MIXTURES,100,12month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+752,he153,Hezoy,LIQUID,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+753,he154,Transamin Tablets,LIQUID,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+754,he155,Pronivel 2000 IU,TABLETS,100,12month,9/29/2021,Laboratoires UPSA - France,Migraine medications,10/29/2021
+755,he156,Reliporex 10000 IU s,OIMENTS,100,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,Migraine medications,10/29/2021
+756,he157,Haemoctin SDH 250,LOZENGES,100,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+757,he158,Reliporex 4000 IU,LOZENGES,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+758,he159,Lefvox-750,OIMENTS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+759,he160,Ciprofloxacin 500mg,LOZENGES,100,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,Migraine medications,10/29/2021
+760,he161,Ledvir,PILLS,100,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,Migraine medications,10/29/2021
+761,he162,Vixbarin 400mg,PELLETS,100,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,Migraine medications,10/29/2021
+762,he163,Govou,PELLETS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+763,he164,Tavanic,CAPSULES,100,12month,9/29/2021,nd-Swift Ltd - INDIA,Migraine medications,10/29/2021
+764,he165,Tavanic,CAPSULES,100,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,Migraine medications,10/29/2021
+765,he166,Augmex Duo Tabs,CAPSULES,100,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,Migraine medications,10/29/2021
+766,he167,Acnequidt,INHALANTS,100,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA",Migraine medications,10/29/2021
+767,he168,Meropenem 1g,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+768,he169,Albendazole 400mg,LINIMENT,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+769,he170,Albendazol Stada 400 mg,LINIMENT,100,12month,9/29/2021,Farmak JSC - UKraine,Migraine medications,10/29/2021
+770,he171,Virclath,LOTIONS,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+771,he172,Eduar,PASTE,100,12month,9/29/2021,"Ind-Swift., Ltd - INDIA",Migraine medications,10/29/2021
+772,he173,Salgad,POWDER,100,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,Migraine medications,10/29/2021
+773,he174,Razirax,EMULSIONS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+774,he175,Guilaume,GELS,100,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+775,he176,Cybercef 750 mg,MAGMAS,100,12month,9/29/2021,"Micro Labs., Ltd - INDIA",Migraine medications,10/29/2021
+776,he177,Medoclav 1g,MIXTURES,100,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA",Migraine medications,10/29/2021
+777,he178,Madopar,LIQUID,100,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,Migraine medications,10/29/2021
+778,he179,Trihexyphenidyl 2mg,LIQUID,100,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA",Migraine medications,10/29/2021
+779,he180,Stalevo 100/25/200,TABLETS,100,12month,9/29/2021,Cenexi SAS - FRANCE,Migraine medications,10/29/2021
+780,he181,Madopar,OIMENTS,100,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,Migraine medications,10/29/2021
+781,he182,Sifrol,LOZENGES,100,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA",Migraine medications,10/29/2021
+782,he183,Sifrol,LOZENGES,100,6month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+783,he184,Masopen 100/10,OIMENTS,100,6month,9/29/2021,Stellapharm - VIETNAM,Migraine medications,10/29/2021
+784,he185,Sifrol,LOZENGES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+785,he186,Stalevo 150/37.5/200,OIMENTS,100,6month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,Migraine medications,10/29/2021
+786,he187,Syndopa 275,LOZENGES,100,6month,9/29/2021,Novartis Farma S.P.A Italy,Migraine medications,10/29/2021
+787,he188,Danapha-Trihex 2,LOZENGES,100,6month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,Migraine medications,10/29/2021
+788,he189,Trihexyphenidyl,OIMENTS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+789,he190,Stalevo 150/37.5/200,LOZENGES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+790,he191,Madopar HBS,PILLS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+791,he192,Sifstad 0.18,PELLETS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,Migraine medications,10/29/2021
+792,he193,Sifrol,PELLETS,100,6month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+793,he194,Succinimide Pharbiol,CAPSULES,100,6month,9/29/2021,Pharmedic,Migraine medications,10/29/2021
+794,he195,Apo-Trihex 2mg,CAPSULES,100,6month,9/29/2021,Orion Corporation,Migraine medications,10/29/2021
+795,he196,Uro-Vaxom,CAPSULES,100,6month,9/29/2021,"F.Hoffmann-La Roche., Ltd",Migraine medications,10/29/2021
+796,he197,Althax,INHALANTS,100,6month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,Migraine medications,10/29/2021
+797,he198,ProIVIG,LINIMENT,100,6month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,Migraine medications,10/29/2021
+798,he199,Keytruda,OIMENTS,100,6month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,Migraine medications,10/29/2021
+799,he200,Beriate,LOZENGES,100,6month,9/29/2021,B.Braun Melsungen AG - Germany,Migraine medications,10/29/2021
+800,he201,Hizentra,LOZENGES,100,6month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,Migraine medications,10/29/2021
+801,inf1,Tophem,OIMENTS,100,6month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+802,inf2,Gon sa Ezeti-10,LOZENGES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+803,inf3,Arixtra,PILLS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+804,inf4,Toxaxin Inj,PELLETS,100,6month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+805,inf5,Arixtra,PELLETS,100,6month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+806,inf6,Replenine-VF,CAPSULES,100,6month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+807,inf7,Hezoy,CAPSULES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+808,inf8,Transamin Tablets,CAPSULES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+809,inf9,Pronivel 2000 IU,INHALANTS,100,6month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+810,inf10,Reliporex 10000 IU s,LINIMENT,100,6month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+811,inf11,Prograf,LINIMENT,100,6month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+812,inf12,Iritero 100mg/5ml,LINIMENT,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+813,inf13,Prograf 0.5mg,LOTIONS,100,6month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+814,inf14,Phastarxin,PASTE,100,6month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+815,inf15,Fluzinstad 5,POWDER,100,6month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+816,inf16,Sobelin,EMULSIONS,100,6month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+817,inf17,Reinal,GELS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+818,inf18,Siberian,MAGMAS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+819,inf19,Lelocin 5,MIXTURES,100,6month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+820,inf20,Sarah Cap,LIQUID,100,6month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+821,inf21,Reinal-5,LIQUID,100,6month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+822,inf22,Lelocin 5,TABLETS,100,6month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+823,inf23,Metomol Tablet,OIMENTS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+824,inf24,Fluthepharm 10,LOZENGES,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+825,inf25,Lodegald-Flunarizin,LINIMENT,100,6month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+826,inf26,Sibendina,LINIMENT,100,6month,9/29/2021,"Axon Drugs Private., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+827,inf27,Virtizin 5,LINIMENT,100,6month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+828,inf28,Sibetinic Soft,LOTIONS,100,6month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+829,inf29,Sibetinic,PASTE,100,6month,9/29/2021,Cenexi SAS - FRANCE,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+830,inf30,Hagizin,GELS,100,6month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+831,inf31,Mezapizine 10,MAGMAS,100,6month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+832,inf32,Sobelin,MIXTURES,100,6month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+833,inf33,Darintab,GELS,100,6month,9/29/2021,Stellapharm - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+834,inf34,Oliveirim,MAGMAS,100,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+835,inf35,Pentoxifylin,MIXTURES,150,6month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+836,inf36,Advate,LIQUID,150,6month,9/29/2021,Novartis Farma S.P.A Italy,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+837,inf37,Nanokine,LIQUID,150,6month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+838,inf38,Epocassa,TABLETS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+839,inf39,Pentoxipharm,OIMENTS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+840,inf40,Sintrom 4,LOZENGES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+841,inf41,Somatin,LINIMENT,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+842,inf42,Fontit-F,LINIMENT,150,6month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+843,inf43,Tophem,LINIMENT,150,6month,9/29/2021,Pharmedic,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+844,inf44,Gon sa Ezeti-10,LOTIONS,150,6month,9/29/2021,Orion Corporation,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+845,inf45,Arixtra,PASTE,150,6month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+846,inf46,Toxaxin Inj,GELS,150,6month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+847,inf47,Arixtra,MAGMAS,150,6month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+848,inf48,Replenine-VF,MIXTURES,150,6month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+849,inf49,Hezoy,PILLS,150,6month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+850,inf50,Transamin Tablets,PELLETS,150,6month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+851,inf51,Pronivel 2000 IU,PELLETS,150,6month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+852,inf52,Reliporex 10000 IU s,CAPSULES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+853,inf53,Haemoctin SDH 250,CAPSULES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+854,inf54,Reliporex 4000 IU,CAPSULES,150,6month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+855,inf55,Lefvox-750,INHALANTS,150,6month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+856,inf56,Ciprofloxacin 500mg,LINIMENT,150,6month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+857,inf57,Ledvir,LINIMENT,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+858,inf58,Vixbarin 400mg,LINIMENT,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+859,inf59,Govou,LOTIONS,150,6month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+860,inf60,Tavanic,PASTE,150,6month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+861,inf61,Tavanic,POWDER,150,6month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+862,inf62,Augmex Duo Tabs,EMULSIONS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+863,inf63,Acnequidt,GELS,150,6month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+864,inf64,Meropenem 1g,MAGMAS,150,6month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+865,inf65,Albendazole 400mg,MIXTURES,150,6month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+866,inf66,Albendazol Stada 400 mg,LIQUID,150,6month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+867,inf67,Virclath,LIQUID,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+868,inf68,Eduar,TABLETS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+869,inf69,Salgad,OIMENTS,150,6month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+870,inf70,Razirax,LOZENGES,150,6month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+871,inf71,Guilaume,LOZENGES,150,6month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+872,inf72,Cybercef 750 mg,OIMENTS,150,6month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+873,inf73,Medoclav 1g,LOZENGES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+874,inf74,Madopar,PILLS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+875,inf75,Trihexyphenidyl 2mg,PELLETS,150,6month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+876,inf76,Stalevo 100/25/200,PELLETS,150,6month,9/29/2021,"Axon Drugs Private., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+877,inf77,Madopar,CAPSULES,150,6month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+878,inf78,Sifrol,CAPSULES,150,6month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+879,inf79,Sifrol,CAPSULES,150,6month,9/29/2021,Cenexi SAS - FRANCE,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+880,inf80,Masopen 100/10,INHALANTS,150,6month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+881,inf81,Sifrol,LINIMENT,150,6month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+882,inf82,Stalevo 150/37.5/200,LINIMENT,150,6month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+883,inf83,Syndopa 275,LINIMENT,150,6month,9/29/2021,Stellapharm - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+884,inf84,Danapha-Trihex 2,LOTIONS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+885,inf85,Trihexyphenidyl,PASTE,150,6month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+886,inf86,Stalevo 150/37.5/200,POWDER,150,6month,9/29/2021,Orion Corporation,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+887,inf87,Madopar HBS,EMULSIONS,150,6month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+888,inf88,Sifstad 0.18,GELS,150,6month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+889,inf89,Sifrol,MAGMAS,150,6month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+890,inf90,Succinimide Pharbiol,MIXTURES,150,6month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+891,inf91,Apo-Trihex 2mg,LIQUID,150,6month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+892,inf92,Uro-Vaxom,LIQUID,150,6month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+893,inf93,Althax,TABLETS,150,6month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+894,inf94,ProIVIG,OIMENTS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+895,inf95,Keytruda,LOZENGES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+896,inf96,Beriate,LOZENGES,150,6month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+897,inf97,Hizentra,OIMENTS,150,6month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+898,inf98,Privigen,LOZENGES,150,6month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+899,inf99,Darzalex,OIMENTS,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+900,inf100,Simponi,LOZENGES,150,6month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+901,inf101,Hizentra,LOZENGES,150,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+902,inf102,Mabthera,OIMENTS,150,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+903,inf103,Imurel 50mg,LOZENGES,150,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+904,inf104,Prograf,PILLS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+905,inf105,HYYR,PELLETS,150,12month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+906,inf106,Hytinon,PELLETS,150,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+907,inf107,Tacropic 0.03%,CAPSULES,150,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+908,inf108,Prograf,CAPSULES,150,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+909,inf109,Iritero 100mg/5ml,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+910,inf110,Prograf 0.5mg,INHALANTS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+911,inf111,Phastarxin,LINIMENT,150,12month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+912,inf112,Fluzinstad 5,OIMENTS,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+913,inf113,Sobelin,LOZENGES,150,12month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+914,inf114,Reinal,LOZENGES,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+915,inf115,Siberian,OIMENTS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+916,inf116,Lelocin 5,LOZENGES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+917,inf117,Sarah Cap,PILLS,150,12month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+918,inf118,Reinal-5,PELLETS,150,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+919,inf119,Lelocin 5,PELLETS,150,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+920,inf120,Metomol Tablet,CAPSULES,150,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+921,inf121,Fluthepharm 10,CAPSULES,150,12month,9/29/2021,Cenexi SAS - FRANCE,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+922,inf122,Lodegald-Flunarizin,CAPSULES,150,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+923,inf123,Sibendina,INHALANTS,150,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+924,inf124,Virtizin 5,LINIMENT,150,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+925,inf125,Sibetinic Soft,LINIMENT,150,12month,9/29/2021,Stellapharm - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+926,inf126,Sibetinic,LINIMENT,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+927,inf127,Hagizin,LOTIONS,150,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+928,inf128,Mezapizine 10,PASTE,150,12month,9/29/2021,Novartis Farma S.P.A Italy,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+929,inf129,Sobelin,POWDER,150,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+930,inf130,Darintab,EMULSIONS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+931,inf131,Oliveirim,GELS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+932,inf132,Pentoxifylin,MAGMAS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+933,inf133,Advate,MIXTURES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+934,inf134,Nanokine,LIQUID,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+935,inf135,Epocassa,LIQUID,150,12month,9/29/2021,Pharmedic,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+936,inf136,Pentoxipharm,TABLETS,150,12month,9/29/2021,Orion Corporation,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+937,inf137,Sintrom 4,OIMENTS,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+938,inf138,Somatin,LOZENGES,150,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+939,inf139,Fontit-F,LINIMENT,150,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+940,inf140,Tophem,LINIMENT,150,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+941,inf141,Gon sa Ezeti-10,LINIMENT,150,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+942,inf142,Arixtra,LOTIONS,150,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+943,inf143,Toxaxin Inj,PASTE,150,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+944,inf144,Arixtra,GELS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+945,inf145,Replenine-VF,MAGMAS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+946,inf146,Hezoy,MIXTURES,150,12month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+947,inf147,Transamin Tablets,PASTE,150,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+948,inf148,Pronivel 2000 IU,GELS,150,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+949,inf149,Reliporex 10000 IU s,MAGMAS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+950,inf150,Haemoctin SDH 250,MIXTURES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+951,inf151,Reliporex 4000 IU,PILLS,150,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+952,inf152,Lefvox-750,PELLETS,150,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+953,inf153,Ciprofloxacin 500mg,PELLETS,150,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+954,inf154,Ledvir,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+955,inf155,Vixbarin 400mg,CAPSULES,150,12month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+956,inf156,Govou,CAPSULES,150,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+957,inf157,Tavanic,INHALANTS,150,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+958,inf158,Tavanic,LINIMENT,150,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+959,inf159,Augmex Duo Tabs,LINIMENT,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+960,inf160,Acnequidt,LINIMENT,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+961,inf161,Meropenem 1g,LOTIONS,150,12month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+962,inf162,Albendazole 400mg,PASTE,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+963,inf163,Albendazol Stada 400 mg,POWDER,150,12month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+964,inf164,Virclath,EMULSIONS,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+965,inf165,Eduar,GELS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+966,inf166,Salgad,MAGMAS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+967,inf167,Razirax,MIXTURES,150,12month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+968,inf168,Guilaume,LIQUID,150,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+969,inf169,Cybercef 750 mg,LIQUID,150,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+970,inf170,Medoclav 1g,TABLETS,150,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+971,inf171,Madopar,OIMENTS,150,12month,9/29/2021,Cenexi SAS - FRANCE,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+972,inf172,Trihexyphenidyl 2mg,LOZENGES,150,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+973,inf173,Stalevo 100/25/200,LOZENGES,150,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+974,inf174,Madopar,OIMENTS,150,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+975,inf175,Sifrol,LOZENGES,150,12month,9/29/2021,Stellapharm - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+976,inf176,Sifrol,PILLS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+977,inf177,Masopen 100/10,PELLETS,150,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+978,inf178,Sifrol,PELLETS,150,12month,9/29/2021,Novartis Farma S.P.A Italy,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+979,inf179,Stalevo 150/37.5/200,CAPSULES,150,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+980,inf180,Syndopa 275,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+981,inf181,Danapha-Trihex 2,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+982,inf182,Trihexyphenidyl,INHALANTS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+983,inf183,Stalevo 150/37.5/200,LINIMENT,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+984,inf184,Madopar HBS,LINIMENT,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+985,inf185,Sifstad 0.18,LINIMENT,150,12month,9/29/2021,Pharmedic,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+986,inf186,Sifrol,LOTIONS,150,12month,9/29/2021,Orion Corporation,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+987,inf187,Succinimide Pharbiol,PASTE,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+988,inf188,Apo-Trihex 2mg,POWDER,150,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+989,inf189,Uro-Vaxom,EMULSIONS,150,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+990,inf190,Althax,GELS,150,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+991,inf191,ProIVIG,MAGMAS,150,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+992,inf192,Keytruda,MIXTURES,150,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+993,inf193,Beriate,LIQUID,150,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+994,inf194,Hizentra,LIQUID,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+995,inf195,Privigen,TABLETS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+996,inf196,Darzalex,OIMENTS,150,12month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+997,inf197,Simponi,LOZENGES,150,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+998,inf198,Hizentra,LOZENGES,150,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+999,inf199,Mabthera,OIMENTS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1000,inf200,Imurel 50mg,LOZENGES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1001,inf201,Prograf,OIMENTS,150,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1002,inf202,HYYR,LOZENGES,150,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1003,inf203,Hytinon,LOZENGES,150,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1004,inf204,Tacropic 0.03%,OIMENTS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1005,inf205,Prograf,LOZENGES,150,12month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1006,inf206,Iritero 100mg/5ml,PILLS,150,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1007,inf207,Prograf 0.5mg,PELLETS,150,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1008,inf208,Phastarxin,PELLETS,150,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1009,inf209,Fluzinstad 5,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1010,inf210,Sobelin,CAPSULES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1011,inf211,Reinal,CAPSULES,150,12month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1012,inf212,Siberian,INHALANTS,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1013,inf213,Lelocin 5,LINIMENT,150,12month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1014,inf214,Sarah Cap,OIMENTS,150,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1015,inf215,Reinal-5,LOZENGES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1016,inf216,Lelocin 5,LOZENGES,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1017,inf217,Metomol Tablet,OIMENTS,150,12month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1018,inf218,Fluthepharm 10,LOZENGES,150,12month,9/29/2021,"Axon Drugs Private., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1019,inf219,Lodegald-Flunarizin,PILLS,150,12month,9/29/2021,Cuu Long Pharmaceutical and Medical Equipment Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1020,inf220,Sibendina,PELLETS,150,12month,9/29/2021,"Furen Pharmaceutical Group Co., Ltd. - CHINA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1021,inf221,Virtizin 5,PELLETS,150,12month,9/29/2021,Cenexi SAS - FRANCE,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1022,inf222,Sibetinic Soft,CAPSULES,150,12month,9/29/2021,Novartis Pharm Stein A.G - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1023,inf223,Sibetinic,CAPSULES,150,12month,9/29/2021,"Sun Pharmaceutical Industries., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1024,inf224,Hagizin,CAPSULES,150,12month,9/29/2021,DANAPHA Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1025,inf225,Mezapizine 10,INHALANTS,150,12month,9/29/2021,Stellapharm - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1026,inf226,Sobelin,LINIMENT,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1027,inf227,Darintab,LINIMENT,150,12month,9/29/2021,TRAPHACO - VIETNAM JOINT STOCK COMPANY,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1028,inf228,Oliveirim,LINIMENT,150,12month,9/29/2021,Novartis Farma S.P.A Italy,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1029,inf229,Pentoxifylin,LOTIONS,150,12month,9/29/2021,Pharmedic - VIETNAM Pharmaceutical and Pharmaceutical Joint Stock Company,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1030,inf230,Advate,PASTE,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1031,inf231,Nanokine,POWDER,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1032,inf232,Epocassa,EMULSIONS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1033,inf233,Pentoxipharm,GELS,150,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1034,inf234,Sintrom 4,MAGMAS,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1035,inf235,Somatin,MIXTURES,150,12month,9/29/2021,Pharmedic,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1036,inf236,Fontit-F,LIQUID,150,12month,9/29/2021,Orion Corporation,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1037,inf237,Tophem,LIQUID,150,12month,9/29/2021,"F.Hoffmann-La Roche., Ltd","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1038,inf238,Gon sa Ezeti-10,TABLETS,150,12month,9/29/2021,Boehringer Ingelheim pharma GmbH & Co,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1039,inf239,Arixtra,OIMENTS,150,12month,9/29/2021,Fresenius Kabi Vietnam Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1040,inf240,Toxaxin Inj,LOZENGES,200,12month,9/29/2021,CPC1 Pharmaceutical Joint Stock Company Hanoi - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1041,inf241,Arixtra,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1042,inf242,Replenine-VF,LINIMENT,200,12month,9/29/2021,Warsaw Pharmaceutical Works Polfa - Poland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1043,inf243,Hezoy,LINIMENT,200,12month,9/29/2021,B.Braun Melsungen AG - Germany,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1044,inf244,Transamin Tablets,LOTIONS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1045,inf245,Pronivel 2000 IU,LINIMENT,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1046,inf246,Reliporex 10000 IU s,LINIMENT,200,12month,9/29/2021,Laboratoires UPSA - France,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1047,inf247,Haemoctin SDH 250,LINIMENT,200,12month,9/29/2021,Stada-Vietnam - VIETNAM COMPANY LIMITED,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1048,inf248,Reliporex 4000 IU,LOTIONS,200,12month,9/29/2021,Sanofi Vietnam Pharmaceutical Joint Stock Company - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1049,inf249,Lefvox-750,PASTE,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1050,inf250,Ciprofloxacin 500mg,POWDER,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1051,inf251,Ledvir,EMULSIONS,200,12month,9/29/2021,Branch of OPC Pharmaceutical Joint Stock Company in Binh Duong - OPC Pharmaceutical Factory - VIETNAM (,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1052,inf252,Vixbarin 400mg,GELS,200,12month,9/29/2021,PT. Indofarma Tbk. - INDONESIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1053,inf253,Govou,MAGMAS,200,12month,9/29/2021,Central Pharmaceutical Company Limited 3 - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1054,inf254,Tavanic,MIXTURES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1055,inf255,Tavanic,LIQUID,200,12month,9/29/2021,nd-Swift Ltd - INDIA,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1056,inf256,Augmex Duo Tabs,LIQUID,200,12month,9/29/2021,Pharmaceutical & Medical Biomedical Enterprise (MEBIPHAR) Ho Chi Minh City - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1057,inf257,Acnequidt,TABLETS,200,12month,9/29/2021,U.C.B. Farchin S.A - Switzerland,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1058,inf258,Meropenem 1g,OIMENTS,200,12month,9/29/2021,"Korea Drug Co., Ltd - KOREA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1059,inf259,Albendazole 400mg,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1060,inf260,Albendazol Stada 400 mg,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1061,inf261,Virclath,OIMENTS,200,12month,9/29/2021,Farmak JSC - UKraine,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1062,inf262,Eduar,LOZENGES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1063,inf263,Salgad,OIMENTS,200,12month,9/29/2021,"Ind-Swift., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1064,inf264,Razirax,LOZENGES,200,12month,9/29/2021,Khanh Hoi Pharmaceutical & Medical Services Joint Stock Company (KHAHOPHARMA) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1065,inf265,Guilaume,LOZENGES,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1066,inf266,Cybercef 750 mg,OIMENTS,200,12month,9/29/2021,Dat Vi Phu Pharmaceutical Joint Stock Company (DAVIPHARM) - VIETNAM,"Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021
+1067,inf267,Medoclav 1g,LOZENGES,200,12month,9/29/2021,"Micro Labs., Ltd - INDIA","Drugs for parasites, anti-bacterial, antiviral, antifungal",10/29/2021

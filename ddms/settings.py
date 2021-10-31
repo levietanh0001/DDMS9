@@ -254,7 +254,13 @@ MEDIA_URL = '/media/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
+# JAZZMIN_UI_TWEAKS = {
+    
+#     "theme": "flatly",
+#     "dark_mode_theme": "darkly",
+# }
 JAZZMIN_SETTINGS = {
+    
     # title of the window (Will default to current_admin_site.site_title if absent or None)
     "site_title": "DDMS Admin",
 
@@ -288,7 +294,7 @@ JAZZMIN_SETTINGS = {
     ############
     # Top Menu #
     ############
-
+    
     # Links to put along the top menu
     "topmenu_links": [
 
@@ -305,7 +311,8 @@ JAZZMIN_SETTINGS = {
         {"model": "auth.User"},
 
         # App with dropdown menu to all its models pages (Permissions checked against models)
-        {"app": "drugs"},
+        # {"app": "drugs"},
+        {"model": "drugs.Drug"},
         
     ],
 
@@ -372,7 +379,7 @@ JAZZMIN_SETTINGS = {
     "custom_css": None,
     "custom_js": None,
     # Whether to show the UI customizer on the sidebar
-    "show_ui_builder": False,
+    "show_ui_builder": True,
 
     ###############
     # Change view #
