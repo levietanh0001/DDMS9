@@ -224,16 +224,6 @@ ACCOUNT_EMAIL_REQUIRED = True
 SOCIALACCOUNT_QUERY_EMAIL = True
 ACCOUNT_SESSION_REMEMBER = True
 
-# AUTH_USER_MODEL = 'members.User'
-# Google
-# 44342591518-lj6benkc9ru5grrfo5u38l4t205bq1vm.apps.googleusercontent.com
-# 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
-# 392031481346-q4v00tjh9pv4ig64a0ptcgfq0smusklc.apps.googleusercontent.com
-# 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
-# Facebook
-# 1553474038337541
-# 9c33ca99adc2d9bda274c6dacb89ec92
-
 
 # HAYSTACK_CONNECTIONS = {
 #     'default': {
